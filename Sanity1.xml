@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite" thread-count="8" preserve-order="true" parallel="tests">
+
+	<listeners>
+		<listener class-name="com.swiftshop.utilities.Reporting" />
+		<listener class-name="com.swiftshop.utilities.AnnotationTransformer" />
+	</listeners>
+
+	<parameter name="browser" value="Firefox"></parameter>
+
+	<test name="Subscription Test1">
+	<parameter name="sheetname" value="SubscriptionTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.SubscriptionTests">
+				<methods>
+					<include name="validateDeliveryPlusSubscriptionUsingCreditCard"/>
+				</methods>
+			</class>
+		</classes> 
+	</test>
+	<test name="Subscription Test2">
+	<parameter name="sheetname" value="SubscriptionTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.SubscriptionTests">
+				<methods>
+					<include name="validateFreeDeliveryMoreThanHundredDollar" />
+				</methods>
+			</class>
+		</classes> 
+	</test>
+	<test name="Subscription Test3">
+	<parameter name="sheetname" value="SubscriptionTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.SubscriptionTests">
+				<methods>
+					<include name="validateUserSubscribedSubscription" />
+					<include name="validateViewHistoryLinkINManageYourDeliverySubscriptionTab" />
+				</methods>
+			</class>
+		</classes> 
+	</test>
+	
+	<test name="My Account Tests1">
+	<parameter name="sheetname" value="MyAccountTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.MyAccountTests">
+				<methods>
+					<include name="validateAccountPasswordChangedSuccessfully" />
+					<include name="validateDelInstructionPageNotDisplayedForSignedDelivery" />
+					<include name="validateMyListCreated_LoggedInUser" />
+					<include name="validateAccountDetailsWithValidData_LoggedInUser" />
+					<include name="validateLinkFlybuysNum_LoggedInUser" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="My Account Tests2">
+	<parameter name="sheetname" value="MyAccountTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.MyAccountTests">
+				<methods>
+					<include name="validateAddNewAddress_LoggedInUser" />
+					<include name="validateAddPreferredSubstitute" />					
+					<include name="validateSavedCardDetails" />
+					<include name="validateAddProductFromHYFOverlay" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Delivery Slot Tests1">
+	<parameter name="sheetname" value="DeliverySlotTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.DeliverySlotTests">
+				<methods>
+					<include name="validateDeliveryRestrictionForUD" />
+					<include name="validateUnattendedDelivery" />
+<!-- 					<Exclude name="validateDSSHDBagOptionErrorMsg" /> Functional Change OOS -->
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Delivery Slot Tests2">
+	<parameter name="sheetname" value="DeliverySlotTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.DeliverySlotTests">
+				<methods>
+					<include name="validateDeliveryRestrictionPopupDSSPage" />
+					<include name="validateBaggingOptionsAtDSSPopup" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Delivery Slot Tests3">
+	<parameter name="sheetname" value="DeliverySlotTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.DeliverySlotTests">
+				<methods>
+<!--                <Exclude name="validateRememberBaggingPreferenceCheckbox" /> Functional Change OOS -->
+					<include name="validateDeliveryInstructionForUD" />
+<!-- 			    <Exclude name="validateChangeBaggingPreference"/> Functional Change OOS -->
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Order Confirmation Tests1">
+	<parameter name="sheetname" value="OrderConfirmationTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.OrderConfirmationTests">
+				<methods>
+					<include name="validatePlaceOrder_HD" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Order Confirmation Tests2">
+	<parameter name="sheetname" value="OrderConfirmationTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.OrderConfirmationTests">
+				<methods>
+					<include name="validatePlaceOrder_CC" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Order Confirmation Tests3">
+	<parameter name="sheetname" value="OrderConfirmationTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.OrderConfirmationTests">
+				<methods>
+					<include name="validatePlaceOrder_RD" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="AlmostDone Tests1">
+	<parameter name="sheetname" value="AlmostDoneTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.AlmostDoneTests">
+				<methods>
+					<include name="validatePastOrders" />
+					<include name="validatePromocodeIsApplied" />					
+					<include name="validateModifyOrderWithProducts" />
+					
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="AlmostDone Tests2">
+	<parameter name="sheetname" value="AlmostDoneTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.AlmostDoneTests">
+				<methods>
+					<include name="validateOrderCancellation" />
+					<include name="validateTotalAmountBagToBaglessForCC" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Guest User Tests">
+	<parameter name="sheetname" value="GuestUserTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.GuestUserTests">
+				<methods>
+					<include name="validateAddProduct_GuestUser" />
+					<include name="validateChooseDeliveryForceLogin_GuestUser" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="User Registration Tests">
+	<parameter name="sheetname" value="RegistrationTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.RegistrationTests">
+				<methods>
+					<include name="validateNewUserRegistration" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Home Page Tests1">
+	<parameter name="sheetname" value="HomePageTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.HomePageTests">
+				<methods>
+					<include name="validateAddproductFromPDPage" />				
+					<include name="validateProductSearch_LoggedInUser" />
+					<include name="validateEverythingTabTobaccoLiquorEspotsTile_LoggedInUser" />
+					<include name="validateRemoveProductQtyFromFatcontroller" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Home Page Tests2">
+	<parameter name="sheetname" value="HomePageTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.HomePageTests">
+				<methods>
+					<include name="validateUpdateQuantityMoreThan5InSuperbar" />
+					<include name="validateRemoveProductQtyFromTrolley" />
+					<include name="validateAddProductsFromMultisearch_LoggedInUser" />
+					<include name="validateEverythingTabTopProductsSorting_LoggedInUser" />
+					<include name="validateLowestPriceSorting_LoggedInUser" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Home Page Tests3">
+	<parameter name="sheetname" value="HomePageTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.HomePageTests">
+				<methods>
+					<include name="validateBoughtBeforeTab_LoggedInUser" />
+					<include name="validateSpecialTabLowestUnitPriceSorting_LoggedInUser" />
+					<include name="validateProductDetails_LoggedInUser" />
+					<include name="validateTobaccoLiquorRestrictionsMoreThanEighteen_LoggedInUser" />
+					<include name="validateTobaccoLiquorRestrictionsLessThanEighteen_LoggedInUser" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Home Page Tests4">
+	<parameter name="sheetname" value="HomePageTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.HomePageTests">
+				<methods>
+					<include name="validateRedemtionLimitMsg_LoggedInUser" />
+					<include name="validateAdd5orMoreProductQtyFromFatcontroller" />
+					<include name="validateNotAbleToPlaceOrderLessThanFiftyDollar" />
+					<include name="validateRoundUpMsg_LoggedInUser" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Payment Tests1">
+	<parameter name="sheetname" value="PaymentTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.PaymentTests">
+				<methods>
+					<include name="validateSystemNotAcceptInvalidCard" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Payment Tests2">
+	<parameter name="sheetname" value="PaymentTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.PaymentTests">
+				<methods>
+					<include name="validatePlaceOrderUsingExpiredCard" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Payment Tests3">
+	<parameter name="sheetname" value="PaymentTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.PaymentTests">
+				<methods>
+					<include name="validateSystemNotAcceptInvalidCard" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="Ebay Tests">	
+		<classes>
+			<class name="com.swiftshop.tests.EbayTests">
+				<methods>
+					<include name="validateModifyEbayOrder_API" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

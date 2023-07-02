@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite" thread-count="4"
+	preserve-order="true" parallel="tests">
+
+	<listeners>
+		<listener class-name="com.swiftshop.utilities.Reporting" />
+		<listener
+			class-name="com.swiftshop.utilities.AnnotationTransformer" />
+	</listeners>
+
+	<parameter name="browser" value="Chrome"></parameter>
+
+<!-- <test name="Docker Tests">  -->
+<!-- 		<parameter name="sheetname" value="DockerTest"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.tests.DockerTest"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="HRMLogin" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test>  -->
+<!-- 	<test name="Home Page Tests"> -->
+<!-- 		<parameter name="sheetname" value="HomePageTests"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.tests.HomePageTests"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="validateNotAbleToPlaceOrderLessThanFiftyDollar" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+<!-- 	<test name="My Account Tests"> -->
+<!-- 		<parameter name="sheetname" value="MyAccountTests"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.tests.MyAccountTests"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="validateSkipHYFOverlay" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+<!-- 	<test name="Guest User Tests"> -->
+<!-- 		<parameter name="sheetname" value="GuestUserTests"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.tests.GuestUserTests"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="validateSpecialTabTopProductsSorting_GuestUser" /> -->
+<!-- 					<include name="validateSpecialTabProductNameSorting_GuestUser" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+<!-- 	<test name="User Registration Tests"> -->
+<!-- 		<parameter name="sheetname" value="RegistrationTests"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.tests.RegistrationTests"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="validateNewUserRegistration" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+<!--  	<test name="Payment Tests"> -->
+<!-- 		<parameter name="sheetname" value="PaymentTests"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.tests.PaymentTests"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="validatePlaceOrderUsingExpiredCard" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test>  -->
+<!-- 	<test name="AlmostDone Tests"> -->
+<!-- 		<parameter name="sheetname" value="AlmostDoneTests"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.tests.AlmostDoneTests"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="validateNotChangeBaggingOptAlmostDonePage_UD" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+	<test name="Order Confirmation Tests2">
+	<parameter name="sheetname" value="OrderConfirmationTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.OrderConfirmationTests">
+				<methods>
+					<include name="validatePlaceOrder_HD" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+<!-- 	<test name="Ebay Tests"> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.tests.EbayTests"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="validateModifyEbayOrder_API" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+<!-- 	<test name="Delivery Slot Tests"> -->
+<!-- 		<parameter name="sheetname" value="DeliverySlotTests"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.tests.DeliverySlotTests"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="validateDeliveryRestrictionPopupDSSPage" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->
+<!-- 	<test name="Subscription Test"> -->
+<!-- 	<parameter name="sheetname" value="SubscriptionTests"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.tests.SubscriptionTests"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="validateEfpostsPresenceInSubscriptions"/> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes>  -->
+<!-- 	</test> -->
+<!-- 	<test name="Order Confirmation Tests5"> -->
+<!-- 		<parameter name="sheetname" value="PlaceOrders"></parameter> -->
+<!-- 		<classes> -->
+<!-- 			<class name="com.swiftshop.testdata.PlaceOrders"> -->
+<!-- 				<methods> -->
+<!-- 					<include name="validatePlaceOrder_HD5" /> -->
+<!-- 				</methods> -->
+<!-- 			</class> -->
+<!-- 		</classes> -->
+<!-- 	</test> -->		
+</suite>

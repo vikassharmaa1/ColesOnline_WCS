@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite" thread-count="4"
+	preserve-order="true" parallel="tests">
+
+	<listeners>
+		<listener class-name="com.swiftshop.utilities.Reporting" />
+		<listener class-name="com.swiftshop.utilities.AnnotationTransformer" />
+	</listeners>
+
+	<parameter name="browser" value="HeadlessChrome"></parameter>
+
+	<test name="Delivery Slot Tests">
+		<parameter name="sheetname" value="DeliverySlotTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.DeliverySlotTests"></class>
+		</classes>
+	</test>
+	<test name="Subscription Test">
+		<parameter name="sheetname" value="SubscriptionTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.SubscriptionTests"></class>
+		</classes>
+	</test>
+	<test name="Payment Tests">
+		<parameter name="sheetname" value="PaymentTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.PaymentTests"></class>
+		</classes>
+	</test>
+	<test name="AlmostDone Tests">
+		<parameter name="sheetname" value="AlmostDoneTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.AlmostDoneTests"></class>
+		</classes>
+	</test>
+	<test name="My Account Tests">
+		<parameter name="sheetname" value="MyAccountTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.MyAccountTests"></class>
+		</classes>
+	</test>
+	<test name="Order Confirmation Tests">
+		<parameter name="sheetname" value="OrderConfirmationTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.OrderConfirmationTests"></class>
+		</classes>
+	</test>
+	<test name="Guest User Tests">
+		<parameter name="sheetname" value="GuestUserTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.GuestUserTests"></class>
+		</classes>
+	</test>
+	<test name="User Registration Tests">
+		<parameter name="sheetname" value="RegistrationTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.RegistrationTests"></class>
+		</classes>
+	</test>
+	<test name="Login Tests">
+		<parameter name="sheetname" value="LoginTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.LoginTests"></class>
+		</classes>
+	</test>
+	<test name="Home Page Tests">
+		<parameter name="sheetname" value="HomePageTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.HomePageTests"></class>
+		</classes>
+	</test>
+	<test name="localization Test">
+		<parameter name="sheetname" value="LocalizationTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.LocalizationTests"></class>
+		</classes>
+	</test>
+	<test name="Ebay Tests">
+		<parameter name="sheetname" value="EbayTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.EbayTests"></class>
+		</classes>
+	</test>
+	<test name="RecipeToOrder Tests">
+		<parameter name="sheetname" value="R2OTests"></parameter>
+		<classes>
+			<class name="com.swiftshop.tests.RecipeToOrderTests"></class>
+		</classes>
+	</test>
+</suite>

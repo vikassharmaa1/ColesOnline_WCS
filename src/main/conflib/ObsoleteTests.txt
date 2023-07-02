@@ -1,0 +1,153 @@
+
+---------------------------------------------------------------------------------------------------------
+  												SubscriptionTest
+---------------------------------------------------------------------------------------------------------
+
+/*
+	 * This test case is obselete.
+	 * 
+	 * @Test(description =
+	 * "WCS_AUT087- Verify that user is able to subscribe for Mid Day subscription using Credit card"
+	 * ) public void validateMidWeekSubscriptionCreditCard() throws Exception {
+	 * 
+	 * // Register new user
+	 * getPages.getSuperBarPage().clickLoginSignup().clickNewToColesLink().
+	 * enterFirstNameLastName()
+	 * .enterRandomEmailID().enterPassword().ClickContinueButton().
+	 * enterAddressDetails();
+	 * getPages.getRegistrationPage().validateSuccessMsg().clickContinueShoppingBtn(
+	 * ); // Subscription started getPages.getSuperBarPage().clickMyAccount().
+	 * clickDeliveryPlusSubscriptionLink_BeforeSubscription()
+	 * .clickSignUpButton().clickStartTrialButton().selectMidWeekSaverPlan().
+	 * clickPayUsingCard()
+	 * .enterCardNumber().selectExpiryMonth().selectExpiryYear().enterCVV().
+	 * clickContinueButton(); // Confirming the subscription and redirecting at home
+	 * page getPages.getSubscriptionPage().clickConfirmSubscriptionCheckbox().
+	 * clickSubmitSubscriptionButton() .clickBackToHomePageButton(); // Validate
+	 * subscriptions and logging out user
+	 * getPages.getSuperBarPage().clickMyAccount().
+	 * clickDeliveryPlusSubscriptionLink_AfterSubscription()
+	 * .validateSubscription(midWeek).clickBackLink().clickLogout(); }
+	 */
+	
+	//This test case is obsolete now as we no longer required to add the user to MBRGRPMBR segment to get the Coles Plus option on Superbar.
+/*	@Test(description = "WCS_AUT087 - Verify the user who is not part of delivery plus invitee group shouldn't get DS facility")
+	public void validateNonSegmentUserNotGettingDSfacility() throws Exception {
+		// Register new user
+		getPages.getSuperBarPage().clickLoginSignup().clickNewToColesLink().enterFirstNameLastName()
+				.enterRandomEmailID().enterPassword().ClickContinueButton().enterAddressDetails();
+		getPages.getRegistrationPage().validateSuccessMsg().clickContinueShoppingBtn();
+		// Subscription started and validating the Delivery Plus option
+		getPages.getSuperBarPage().clickMyAccount().VerifyDeliveryPlusOptionisNotThereOnSuperbar();
+	} 
+*/
+
+	/*
+	 * This test case is obselete now
+	 * 
+	 * @Test(description =
+	 * "WCS_AUT088- Verify that user is able to subscribe for Mid Day subscription using Paypal"
+	 * ) public void validateMidWeekSubscriptionPaypal() throws Exception { //
+	 * Register new user
+	 * getPages.getSuperBarPage().clickLoginSignup().clickNewToColesLink().
+	 * enterFirstNameLastName()
+	 * .enterRandomEmailID().enterPassword().ClickContinueButton().
+	 * enterAddressDetails();
+	 * getPages.getRegistrationPage().validateSuccessMsg().clickContinueShoppingBtn(
+	 * ); // Subscription started getPages.getSuperBarPage().clickMyAccount().
+	 * clickDeliveryPlusSubscriptionLink_BeforeSubscription()
+	 * .clickSignUpButton().validateSubscriptionPage().clickStartTrialButton().
+	 * selectMidWeekSaverPlan()
+	 * .clickPayUsingPaypal().enterPaypalID().clickNext().enterPaypalPassword().
+	 * clickPaypalLoginButton() .clickAgreeAndContinueButton(); // Confirming the
+	 * subscription and redirecting at home page
+	 * getPages.getSubscriptionPage().clickConfirmSubscriptionCheckbox().
+	 * clickSubmitSubscriptionButton() .clickBackToHomePageButton(); // Validate
+	 * subscriptions and logging out user
+	 * getPages.getSuperBarPage().clickMyAccount().
+	 * clickDeliveryPlusSubscriptionLink_AfterSubscription()
+	 * .validateSubscription(midWeek).clickBackLink().clickLogout(); }
+	 */
+	 
+	 	/*
+	 * This test case is obselete now. Added new test case
+	 * validateChangeLinkInManageYourDeliverySubscriptionTab() in place of this
+	 * test.
+	 * 
+	 * @Test(description =
+	 * "WCS_AUT093- Verify that user having subscription is getting free delivery ")
+	 * public void validateIsSubscriptionApplied_MidDay() throws Exception { double
+	 * mov_value = 100; // Logged-in user funLibrary.login(); // Only if slot is not
+	 * already selected if (!getPages.getHomePage().isSlotSelected()) {
+	 * getPages.getSuperBarPage().clickChooseDeliverTime().clickHDSlotLink1().
+	 * HDSlotSelector("Mid Day", "signed", true, false);
+	 * getPages.myAccountPage().closeSuperBar(); } else {
+	 * testLog.info("Sot is already selected"); } // Adding product to trolley,
+	 * process to Almost done page
+	 * getPages.getHomePage().add_SKUs_To_Trolley(funLibrary.search_1, "Y",
+	 * mov_value).clickTrolley() .clickProceedToCheckOutButton().TrolleyHandler();
+	 * // checkoutFlowHandler().selectAnyAvailablePaymentOption(); // Make payment
+	 * using card
+	 * getPages.getAlmostDonePage().clickPayUsingCard().clickAddNewCard().
+	 * enterCardNumber().selectExpiryMonth()
+	 * .selectExpiryYear().enterCVV().clickContinueButton(); // Validating
+	 * subscription applied and placing order
+	 * getPages.getAlmostDonePage().verifySubscriptionisApplied().
+	 * clickAgreementCheckbox().clickCompleteOrder() .clickReturnToHome(); //
+	 * Logging out user getPages.getSuperBarPage().clickMyAccount().clickLogout(); }
+	 */
+	 
+	 // Already covered this scenario in method validateFreeDeliveryMoreThanHundredDollar
+//	@Test(description = "WCS_AUT094- Verify that user having subscription is getting free delivery ")
+//	public void validateIsSubscriptionApplied() throws Exception {
+//		double mov_value = 100;
+//		// Logged-in user
+//		funLibrary.login();
+//		// Only if slot is not already selected
+//		if (!getPages.getHomePage().isSlotSelected()) {
+//			getPages.getSuperBarPage().clickChooseDeliverTime().clickHDSlotLink1().HDSlotSelector("Any Day", "signed",
+//					true, false);
+//			getPages.myAccountPage().closeSuperBar();
+//		} else {
+//			testLog.info("Slot is already selected");
+//		}
+//		// Adding product to trolley, process to Almost done page
+//		getPages.getHomePage().add_SKUs_To_Trolley(funLibrary.search_1, "Y", mov_value).clickTrolley()
+//				.clickProceedToCheckOutButton().TrolleyHandler(); // checkoutFlowHandler().selectAnyAvailablePaymentOption();
+//		// Select payment mode as card and enter details
+//		getPages.getAlmostDonePage().clickPayUsingCard().clickAddNewCard().enterCardNumber().selectExpiryMonth()
+//				.selectExpiryYear().enterCVV().clickContinueButton();
+//		// Validating subscription applied and placing order
+//		getPages.getAlmostDonePage().verifySubscriptionisApplied().clickAgreementCheckbox().clickCompleteOrder()
+//				.clickReturnToHome();
+//		// Logging out user
+//		getPages.getSuperBarPage().clickMyAccount().clickLogout();
+//	}
+//Obsoleted from scope as Mid week plan is no longer available
+	
+//	@Test(description = "WCS_AUT095- Verify that mid week subscription is not applied on other days")
+//	public void MidWeekSubsPlaceOrder_InvalidDays() throws Exception {
+//		double mov_value = 100;
+//		// Logged-in user
+//		funLibrary.login();
+//		// Only if slot is not already selected
+//		if (!getPages.getHomePage().isSlotSelected()) {
+//			getPages.getSuperBarPage().clickChooseDeliverTime().clickHDSlotLink1().HDSlotSelector("Not Mid Day",
+//					"signed", true, false);
+//			getPages.myAccountPage().closeSuperBar();
+//		} else {
+//			testLog.info("Slot is already selected");
+//		}
+//		// Adding product to trolley, process to Almost done page
+//		getPages.getHomePage().add_SKUs_To_Trolley(funLibrary.search_1, "Y", mov_value).clickTrolley()
+//				.clickProceedToCheckOutButton().TrolleyHandler(); // checkoutFlowHandler().selectAnyAvailablePaymentOption();
+//		// Select payment mode as card and enter details
+//		getPages.getAlmostDonePage().clickPayUsingCard().clickAddNewCard().enterCardNumber().selectExpiryMonth()
+//				.selectExpiryYear().enterCVV().clickContinueButton();
+//		// Validating subscription applied and placing order
+//		getPages.getAlmostDonePage().verifySubscriptionisNotApplied().clickAgreementCheckbox().clickCompleteOrder()
+//				.clickReturnToHome();
+//		// Logging out user
+       //		getPages.getSuperBarPage().clickMyAccount().clickLogout();   
+//	}
+	 

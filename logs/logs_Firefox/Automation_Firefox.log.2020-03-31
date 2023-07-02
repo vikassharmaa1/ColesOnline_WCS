@@ -1,0 +1,1953 @@
+2020-03-31 00:04:35 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 00:04:35 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 00:04:35 debugLogger [INFO] Reached here Login before
+2020-03-31 00:04:35 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/a-national/home
+2020-03-31 00:04:43 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 00:04:45 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_Change_Link
+2020-03-31 00:04:47 debugLogger [INFO] Data entered for text box: Geo_Location_Bar_SearchField
+2020-03-31 00:04:57 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_First_Suggested_Suburb
+2020-03-31 00:05:05 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 00:05:08 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 00:05:08 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 00:05:08 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 00:05:08 debugLogger [INFO] Number of categories displayed on home page for 6059 DIANELLA are 18
+2020-03-31 00:05:08 debugLogger [INFO] Element found: Geo_Location_Bar_Localised_Suburb
+2020-03-31 00:05:08 debugLogger [INFO] Localisation Bar Suburb: Dianella, WA
+2020-03-31 00:05:10 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_Change_Link
+2020-03-31 00:05:12 debugLogger [INFO] Data entered for text box: Geo_Location_Bar_SearchField
+2020-03-31 00:05:22 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_First_Suggested_Suburb
+2020-03-31 00:05:30 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 00:05:32 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 00:05:32 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 00:05:32 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 00:05:33 debugLogger [INFO] Number of categories displayed on home page for 6210 HALLS HEAD are 18
+2020-03-31 00:05:33 debugLogger [INFO] Element found: Geo_Location_Bar_Localised_Suburb
+2020-03-31 00:05:33 debugLogger [INFO] Localisation Bar Suburb: Halls Head, WA
+2020-03-31 12:26:54 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 12:26:54 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 12:26:54 debugLogger [INFO] Reached here Login before
+2020-03-31 12:26:54 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/a-national/home
+2020-03-31 12:27:10 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 12:27:13 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_Change_Link
+2020-03-31 12:27:15 debugLogger [INFO] Data entered for text box: Geo_Location_Bar_SearchField
+2020-03-31 12:27:25 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_First_Suggested_Suburb
+2020-03-31 12:27:33 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 12:27:36 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 12:27:36 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 12:27:36 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 12:27:36 debugLogger [INFO] Number of categories displayed on home page for 6059 DIANELLA are 18
+2020-03-31 12:27:36 debugLogger [INFO] Element found: Geo_Location_Bar_Localised_Suburb
+2020-03-31 12:27:36 debugLogger [INFO] Localisation Bar Suburb: Dianella, WA
+2020-03-31 12:27:38 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_Change_Link
+2020-03-31 12:27:40 debugLogger [INFO] Data entered for text box: Geo_Location_Bar_SearchField
+2020-03-31 12:27:51 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_First_Suggested_Suburb
+2020-03-31 12:27:59 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 12:28:01 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 12:28:01 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 12:28:01 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 12:28:01 debugLogger [INFO] Number of categories displayed on home page for 6210 HALLS HEAD are 18
+2020-03-31 12:28:01 debugLogger [INFO] Element found: Geo_Location_Bar_Localised_Suburb
+2020-03-31 12:28:01 debugLogger [INFO] Localisation Bar Suburb: Halls Head, WA
+2020-03-31 12:31:00 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 12:31:00 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 12:31:00 debugLogger [INFO] Reached here Login before
+2020-03-31 12:31:00 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/a-national/home
+2020-03-31 12:31:09 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 12:31:12 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_Change_Link
+2020-03-31 12:31:14 debugLogger [INFO] Data entered for text box: Geo_Location_Bar_SearchField
+2020-03-31 12:31:28 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_First_Suggested_Suburb
+2020-03-31 12:31:36 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 12:31:39 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 12:31:39 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 12:31:39 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 12:31:39 debugLogger [INFO] Number of categories displayed on home page for 6059 DIANELLA are 18
+2020-03-31 12:31:39 debugLogger [INFO] Element found: Geo_Location_Bar_Localised_Suburb
+2020-03-31 12:31:39 debugLogger [INFO] Localisation Bar Suburb: Dianella, WA
+2020-03-31 12:31:41 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_Change_Link
+2020-03-31 12:31:43 debugLogger [INFO] Data entered for text box: Geo_Location_Bar_SearchField
+2020-03-31 12:31:53 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_First_Suggested_Suburb
+2020-03-31 12:32:01 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 12:32:03 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 12:32:03 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 12:32:03 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 12:32:03 debugLogger [INFO] Number of categories displayed on home page for 6210 HALLS HEAD are 18
+2020-03-31 12:32:04 debugLogger [INFO] Element found: Geo_Location_Bar_Localised_Suburb
+2020-03-31 12:32:04 debugLogger [INFO] Localisation Bar Suburb: Halls Head, WA
+2020-03-31 12:33:37 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 12:33:37 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 12:33:37 debugLogger [INFO] Reached here Login before
+2020-03-31 12:33:37 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/a-national/home
+2020-03-31 12:33:48 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 12:33:48 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 12:33:50 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 12:33:50 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 12:33:50 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 12:33:53 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 12:33:53 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 12:33:55 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 12:33:58 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 12:33:58 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 12:34:00 debugLogger [INFO] verification element: Log in
+2020-03-31 12:34:00 debugLogger [INFO] Actual element is: Log in
+2020-03-31 12:34:00 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 12:34:02 debugLogger [INFO] Text cleared for Password
+2020-03-31 12:34:05 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 12:34:07 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 12:34:16 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 12:34:18 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 12:34:18 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 12:34:18 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 12:34:18 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 12:34:20 debugLogger [INFO] verification element: You have been logged in as Register one
+2020-03-31 12:34:20 debugLogger [INFO] Actual element is: You have been logged in as Register one
+2020-03-31 12:34:20 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Register one
+2020-03-31 12:34:23 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 12:34:25 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 12:34:25 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 12:34:28 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 12:34:30 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 12:34:36 debugLogger [INFO] Element is found and clicked: Everything_Sortedby_ChangeLink
+2020-03-31 12:34:38 debugLogger [INFO] Element is found and clicked: Everything_Product_Name
+2020-03-31 12:34:40 debugLogger [INFO] Element is found and clicked: Everything_Save_Button
+2020-03-31 12:34:42 debugLogger [INFO] ExplicitWait Element Present: ProductTile_xpath_Counter
+2020-03-31 12:34:44 debugLogger [INFO] count of objects for ProductTile_xpath_Counter is :48
+2020-03-31 12:34:44 debugLogger [INFO] The tile no.1 with product name: 4 Pack is less than or equal to the tile no.2 with product name: 7 Seeds & Grains Sandwich Bread Loaf
+2020-03-31 12:34:44 debugLogger [INFO] The tile no.2 with product name: 7 Seeds & Grains Sandwich Bread Loaf is less than or equal to the tile no.3 with product name: All Butter Mini Croissants 8 Pack
+2020-03-31 12:34:44 debugLogger [INFO] The tile no.3 with product name: All Butter Mini Croissants 8 Pack is less than or equal to the tile no.4 with product name: All Butter Pain Au Chocolate 4 Pack
+2020-03-31 12:34:45 debugLogger [INFO] The tile no.4 with product name: All Butter Pain Au Chocolate 4 Pack is less than or equal to the tile no.5 with product name: Anzac Biscuits
+2020-03-31 12:34:45 debugLogger [INFO] The tile no.5 with product name: Anzac Biscuits is less than or equal to the tile no.6 with product name: Apple Crown Danishes
+2020-03-31 12:34:45 debugLogger [INFO] The tile no.6 with product name: Apple Crown Danishes is less than or equal to the tile no.7 with product name: Apple Crumble Log
+2020-03-31 12:34:45 debugLogger [INFO] The tile no.7 with product name: Apple Crumble Log is less than or equal to the tile no.8 with product name: Apple Crumble Scroll
+2020-03-31 12:34:45 debugLogger [INFO] The tile no.8 with product name: Apple Crumble Scroll is less than or equal to the tile no.9 with product name: Apple Maple & Cinnamon Muffins
+2020-03-31 12:34:45 debugLogger [INFO] The tile no.9 with product name: Apple Maple & Cinnamon Muffins is less than or equal to the tile no.10 with product name: Bakery Stone Baked by laurent Sourdough Baguette
+2020-03-31 12:34:45 debugLogger [INFO] The tile no.10 with product name: Bakery Stone Baked by laurent Sourdough Baguette is less than or equal to the tile no.11 with product name: BBQ Cheese And Bacon Mini Pizza Rolls
+2020-03-31 12:34:45 debugLogger [INFO] The tile no.11 with product name: BBQ Cheese And Bacon Mini Pizza Rolls is less than or equal to the tile no.12 with product name: BBQ Cheese And Bacon Pizza Roll
+2020-03-31 12:37:41 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 12:37:42 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 12:37:42 debugLogger [INFO] Reached here Login before
+2020-03-31 12:37:42 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/a-national/home
+2020-03-31 12:37:52 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 12:37:52 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 12:37:54 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 12:37:54 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 12:37:54 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 12:37:57 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 12:37:57 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 12:37:59 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 12:38:02 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 12:38:02 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 12:38:04 debugLogger [INFO] verification element: Log in
+2020-03-31 12:38:04 debugLogger [INFO] Actual element is: Log in
+2020-03-31 12:38:04 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 12:38:06 debugLogger [INFO] Text cleared for Password
+2020-03-31 12:38:09 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 12:38:12 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 12:38:20 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 12:38:22 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 12:38:22 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 12:38:22 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 12:38:22 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 12:38:24 debugLogger [INFO] verification element: You have been logged in as Register one
+2020-03-31 12:38:24 debugLogger [INFO] Actual element is: You have been logged in as Register one
+2020-03-31 12:38:24 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Register one
+2020-03-31 12:38:26 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 12:38:29 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 12:38:29 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 12:38:31 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 12:38:34 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 12:38:37 debugLogger [INFO] Element is found and clicked: Everything_Sortedby_ChangeLink
+2020-03-31 12:38:39 debugLogger [INFO] Element is found and clicked: Everything_Product_Name
+2020-03-31 12:38:42 debugLogger [INFO] Element is found and clicked: Everything_Save_Button
+2020-03-31 12:38:43 debugLogger [INFO] ExplicitWait Element Present: ProductTile_xpath_Counter
+2020-03-31 12:38:45 debugLogger [INFO] count of objects for ProductTile_xpath_Counter is :48
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.1 with product name: 4 Pack is less than or equal to the tile no.2 with product name: 7 Seeds & Grains Sandwich Bread Loaf
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.2 with product name: 7 Seeds & Grains Sandwich Bread Loaf is less than or equal to the tile no.3 with product name: All Butter Mini Croissants 8 Pack
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.3 with product name: All Butter Mini Croissants 8 Pack is less than or equal to the tile no.4 with product name: All Butter Pain Au Chocolate 4 Pack
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.4 with product name: All Butter Pain Au Chocolate 4 Pack is less than or equal to the tile no.5 with product name: Anzac Biscuits
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.5 with product name: Anzac Biscuits is less than or equal to the tile no.6 with product name: Apple Crown Danishes
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.6 with product name: Apple Crown Danishes is less than or equal to the tile no.7 with product name: Apple Crumble Log
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.7 with product name: Apple Crumble Log is less than or equal to the tile no.8 with product name: Apple Crumble Scroll
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.8 with product name: Apple Crumble Scroll is less than or equal to the tile no.9 with product name: Apple Maple & Cinnamon Muffins
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.9 with product name: Apple Maple & Cinnamon Muffins is less than or equal to the tile no.10 with product name: Bakery Stone Baked by laurent Sourdough Baguette
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.10 with product name: Bakery Stone Baked by laurent Sourdough Baguette is less than or equal to the tile no.11 with product name: BBQ Cheese And Bacon Mini Pizza Rolls
+2020-03-31 12:38:45 debugLogger [INFO] The tile no.11 with product name: BBQ Cheese And Bacon Mini Pizza Rolls is less than or equal to the tile no.12 with product name: BBQ Cheese And Bacon Pizza Roll
+2020-03-31 12:38:48 debugLogger [INFO] Loading Device...
+2020-03-31 12:38:48 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 12:38:48 debugLogger [INFO] TCID match found
+2020-03-31 12:38:48 debugLogger [INFO] Username for test is 
+2020-03-31 12:38:48 debugLogger [INFO] password for test  is  
+2020-03-31 12:38:48 debugLogger [INFO] Firstname for test is 
+2020-03-31 12:38:48 debugLogger [INFO] lastname for test  is  
+2020-03-31 12:38:48 debugLogger [INFO] password for test  is  
+2020-03-31 12:38:48 debugLogger [INFO] Nickname for test  is  
+2020-03-31 12:38:48 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 12:38:53 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 12:38:53 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 12:38:53 debugLogger [INFO] Reached here Login before
+2020-03-31 12:38:53 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/a-national/home
+2020-03-31 14:11:35 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 14:11:35 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 14:11:35 debugLogger [INFO] Reached here Login before
+2020-03-31 14:11:35 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/a-national/home
+2020-03-31 14:11:46 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 14:11:46 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 14:11:48 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 14:11:48 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 14:11:48 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 14:11:51 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 14:11:51 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 14:11:53 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 14:11:56 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 14:11:56 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 14:11:58 debugLogger [INFO] verification element: Log in
+2020-03-31 14:11:58 debugLogger [INFO] Actual element is: Log in
+2020-03-31 14:11:58 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 14:12:00 debugLogger [INFO] Text cleared for Password
+2020-03-31 14:12:03 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 14:12:05 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 14:12:14 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 14:12:16 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 14:12:16 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 14:12:16 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 14:12:16 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 14:12:18 debugLogger [INFO] verification element: You have been logged in as Register one
+2020-03-31 14:12:18 debugLogger [INFO] Actual element is: You have been logged in as Register one
+2020-03-31 14:12:18 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Register one
+2020-03-31 14:12:20 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 14:12:23 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 14:12:23 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 14:12:25 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 14:12:28 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 14:12:31 debugLogger [INFO] Element is found and clicked: Everything_Sortedby_ChangeLink
+2020-03-31 14:12:34 debugLogger [INFO] Element is found and clicked: Everything_Product_Name
+2020-03-31 14:12:36 debugLogger [INFO] Element is found and clicked: Everything_Save_Button
+2020-03-31 14:12:38 debugLogger [INFO] ExplicitWait Element Present: ProductTile_xpath_Counter
+2020-03-31 14:12:40 debugLogger [INFO] count of objects for ProductTile_xpath_Counter is :48
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.1 with product name: 4 Pack is less than or equal to the tile no.2 with product name: 7 Seeds & Grains Sandwich Bread Loaf
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.2 with product name: 7 Seeds & Grains Sandwich Bread Loaf is less than or equal to the tile no.3 with product name: All Butter Mini Croissants 8 Pack
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.3 with product name: All Butter Mini Croissants 8 Pack is less than or equal to the tile no.4 with product name: All Butter Pain Au Chocolate 4 Pack
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.4 with product name: All Butter Pain Au Chocolate 4 Pack is less than or equal to the tile no.5 with product name: Anzac Biscuits
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.5 with product name: Anzac Biscuits is less than or equal to the tile no.6 with product name: Apple Crown Danishes
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.6 with product name: Apple Crown Danishes is less than or equal to the tile no.7 with product name: Apple Crumble Log
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.7 with product name: Apple Crumble Log is less than or equal to the tile no.8 with product name: Apple Crumble Scroll
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.8 with product name: Apple Crumble Scroll is less than or equal to the tile no.9 with product name: Apple Maple & Cinnamon Muffins
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.9 with product name: Apple Maple & Cinnamon Muffins is less than or equal to the tile no.10 with product name: Bakery Stone Baked by laurent Sourdough Baguette
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.10 with product name: Bakery Stone Baked by laurent Sourdough Baguette is less than or equal to the tile no.11 with product name: BBQ Cheese And Bacon Mini Pizza Rolls
+2020-03-31 14:12:40 debugLogger [INFO] The tile no.11 with product name: BBQ Cheese And Bacon Mini Pizza Rolls is less than or equal to the tile no.12 with product name: BBQ Cheese And Bacon Pizza Roll
+2020-03-31 14:12:43 debugLogger [INFO] Loading Device...
+2020-03-31 14:12:43 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 14:12:43 debugLogger [INFO] TCID match found
+2020-03-31 14:12:43 debugLogger [INFO] Username for test is 
+2020-03-31 14:12:43 debugLogger [INFO] password for test  is  
+2020-03-31 14:12:43 debugLogger [INFO] Firstname for test is 
+2020-03-31 14:12:43 debugLogger [INFO] lastname for test  is  
+2020-03-31 14:12:43 debugLogger [INFO] password for test  is  
+2020-03-31 14:12:43 debugLogger [INFO] Nickname for test  is  
+2020-03-31 14:12:43 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 14:12:48 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 14:12:48 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 14:12:48 debugLogger [INFO] Reached here Login before
+2020-03-31 14:12:48 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/a-national/home
+2020-03-31 14:17:01 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 14:17:01 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 14:17:01 debugLogger [INFO] Reached here Login before
+2020-03-31 14:17:01 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 14:17:13 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 14:17:13 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 14:17:15 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 14:17:15 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 14:17:15 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 14:17:17 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 14:17:17 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 14:17:19 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 14:17:23 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 14:17:23 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 14:17:25 debugLogger [INFO] verification element: Log in
+2020-03-31 14:17:25 debugLogger [INFO] Actual element is: Log in
+2020-03-31 14:17:25 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 14:17:27 debugLogger [INFO] Text cleared for Password
+2020-03-31 14:17:30 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 14:17:32 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 14:17:41 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 14:17:43 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 14:17:43 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 14:17:43 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 14:17:43 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 14:17:45 debugLogger [INFO] verification element: You have been logged in as Register one
+2020-03-31 14:17:45 debugLogger [INFO] Actual element is: You have been logged in as Register one
+2020-03-31 14:17:45 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Register one
+2020-03-31 14:17:47 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 14:17:50 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 14:17:50 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 14:17:52 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 14:17:55 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 14:17:58 debugLogger [INFO] Element is found and clicked: Everything_Sortedby_ChangeLink
+2020-03-31 14:18:01 debugLogger [INFO] Element is found and clicked: Everything_Product_Name
+2020-03-31 14:18:03 debugLogger [INFO] Element is found and clicked: Everything_Save_Button
+2020-03-31 14:18:04 debugLogger [INFO] ExplicitWait Element Present: ProductTile_xpath_Counter
+2020-03-31 14:18:06 debugLogger [INFO] count of objects for ProductTile_xpath_Counter is :48
+2020-03-31 14:18:06 debugLogger [INFO] The tile no.1 with product name: 4 Pack is less than or equal to the tile no.2 with product name: 7 Seeds & Grains Sandwich Bread Loaf
+2020-03-31 14:18:06 debugLogger [INFO] The tile no.2 with product name: 7 Seeds & Grains Sandwich Bread Loaf is less than or equal to the tile no.3 with product name: All Butter Mini Croissants 8 Pack
+2020-03-31 14:18:06 debugLogger [INFO] The tile no.3 with product name: All Butter Mini Croissants 8 Pack is less than or equal to the tile no.4 with product name: All Butter Pain Au Chocolate 4 Pack
+2020-03-31 14:18:06 debugLogger [INFO] The tile no.4 with product name: All Butter Pain Au Chocolate 4 Pack is less than or equal to the tile no.5 with product name: Anzac Biscuits
+2020-03-31 14:18:06 debugLogger [INFO] The tile no.5 with product name: Anzac Biscuits is less than or equal to the tile no.6 with product name: Apple Crown Danishes
+2020-03-31 14:18:06 debugLogger [INFO] The tile no.6 with product name: Apple Crown Danishes is less than or equal to the tile no.7 with product name: Apple Crumble Log
+2020-03-31 14:18:06 debugLogger [INFO] The tile no.7 with product name: Apple Crumble Log is less than or equal to the tile no.8 with product name: Apple Crumble Scroll
+2020-03-31 14:18:06 debugLogger [INFO] The tile no.8 with product name: Apple Crumble Scroll is less than or equal to the tile no.9 with product name: Apple Maple & Cinnamon Muffins
+2020-03-31 14:18:07 debugLogger [INFO] The tile no.9 with product name: Apple Maple & Cinnamon Muffins is less than or equal to the tile no.10 with product name: Bakery Stone Baked by laurent Sourdough Baguette
+2020-03-31 14:18:07 debugLogger [INFO] The tile no.10 with product name: Bakery Stone Baked by laurent Sourdough Baguette is less than or equal to the tile no.11 with product name: BBQ Cheese And Bacon Mini Pizza Rolls
+2020-03-31 14:18:07 debugLogger [INFO] The tile no.11 with product name: BBQ Cheese And Bacon Mini Pizza Rolls is less than or equal to the tile no.12 with product name: BBQ Cheese And Bacon Pizza Roll
+2020-03-31 14:18:10 debugLogger [INFO] Loading Device...
+2020-03-31 14:18:10 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 14:18:10 debugLogger [INFO] TCID match found
+2020-03-31 14:18:10 debugLogger [INFO] Username for test is 
+2020-03-31 14:18:10 debugLogger [INFO] password for test  is  
+2020-03-31 14:18:10 debugLogger [INFO] Firstname for test is 
+2020-03-31 14:18:10 debugLogger [INFO] lastname for test  is  
+2020-03-31 14:18:10 debugLogger [INFO] password for test  is  
+2020-03-31 14:18:10 debugLogger [INFO] Nickname for test  is  
+2020-03-31 14:18:10 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 14:18:14 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 14:18:14 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 14:18:14 debugLogger [INFO] Reached here Login before
+2020-03-31 14:18:14 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 18:18:11 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 18:18:11 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 18:18:11 debugLogger [INFO] Reached here Login before
+2020-03-31 18:18:11 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 18:18:23 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 18:18:23 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 18:18:25 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 18:18:25 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 18:18:25 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 18:18:28 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 18:18:28 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 18:18:31 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 18:18:34 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 18:18:34 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 18:18:36 debugLogger [INFO] verification element: Log in
+2020-03-31 18:18:36 debugLogger [INFO] Actual element is: Log in
+2020-03-31 18:18:36 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 18:18:38 debugLogger [INFO] Text cleared for Password
+2020-03-31 18:18:41 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 18:18:44 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 18:18:53 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 18:18:55 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 18:18:55 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 18:18:55 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 18:18:55 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 18:18:57 debugLogger [INFO] verification element: You have been logged in as Register one
+2020-03-31 18:18:57 debugLogger [INFO] Actual element is: You have been logged in as Register one
+2020-03-31 18:18:57 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Register one
+2020-03-31 18:19:00 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 18:19:00 debugLogger [INFO] Element Bought-before is present.
+2020-03-31 18:19:02 debugLogger [INFO] Element is found and clicked: Bought-before
+2020-03-31 18:19:19 debugLogger [INFO] count of objects for Bought_Before_Products is :0
+2020-03-31 18:19:19 debugLogger [INFO] Total count of searched product present in Everything is :0
+2020-03-31 18:19:22 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 18:19:22 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 18:19:24 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 18:21:23 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 18:21:23 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 18:21:23 debugLogger [INFO] Reached here Login before
+2020-03-31 18:21:23 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 18:21:34 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 18:21:34 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 18:21:36 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 18:21:36 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 18:21:36 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 18:21:39 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 18:21:39 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 18:21:41 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 18:21:44 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 18:21:44 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 18:21:46 debugLogger [INFO] verification element: Log in
+2020-03-31 18:21:46 debugLogger [INFO] Actual element is: Log in
+2020-03-31 18:21:46 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 18:21:48 debugLogger [INFO] Text cleared for Password
+2020-03-31 18:21:52 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 18:21:54 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 18:22:03 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 18:22:05 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 18:22:05 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 18:22:05 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 18:22:05 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 18:22:07 debugLogger [INFO] verification element: You have been logged in as Test User
+2020-03-31 18:22:07 debugLogger [INFO] Actual element is: You have been logged in as Test User
+2020-03-31 18:22:07 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Test User
+2020-03-31 18:22:09 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 18:22:12 debugLogger [INFO] Element is found and clicked: Trolley_Text
+2020-03-31 18:22:14 debugLogger [INFO] Element Trolley_Is_Empty_Test is present.
+2020-03-31 18:22:17 debugLogger [INFO] Element is found and clicked: Close_Superbar
+2020-03-31 18:22:19 debugLogger [INFO] Element is found and clicked: MultiSearchLink
+2020-03-31 18:22:23 debugLogger [INFO] verification element: Search for a list of items
+2020-03-31 18:22:23 debugLogger [INFO] Actual element is: Search for a list of items
+2020-03-31 18:22:23 debugLogger [INFO] Element is found and same as the desired text: Search for a list of items
+2020-03-31 18:22:25 debugLogger [INFO] verification element: Type or paste your list below putting each item on a new line.
+2020-03-31 18:22:25 debugLogger [INFO] Actual element is: Type or paste your list below putting each item on a new line.
+2020-03-31 18:22:25 debugLogger [INFO] Element is found and same as the desired text: Type or paste your list below putting each item on a new line.
+2020-03-31 18:22:27 debugLogger [INFO] verification element: Start typing or paste your list here
+2020-03-31 18:22:27 debugLogger [INFO] Actual element is: Start typing or paste your list here
+2020-03-31 18:22:27 debugLogger [INFO] Element is found and same as the desired text: Start typing or paste your list here
+2020-03-31 18:22:30 debugLogger [INFO] Data entered for text box: MultiSearchManage_Overlay_withoutItem_EditBox
+2020-03-31 18:22:33 debugLogger [INFO] Element is found and clicked: MultiSearchManage_Overlay_withoutItem_Save&Search_Button
+2020-03-31 18:22:33 debugLogger [INFO] first element of search term ismilk
+2020-03-31 18:22:33 debugLogger [INFO] ExplicitWait Element Present: Results_For
+2020-03-31 18:22:35 debugLogger [INFO] ExplicitWait Element Present: Everything_Sortedby_ChangeLink
+2020-03-31 18:22:36 debugLogger [INFO] Element found: Results_For
+2020-03-31 18:22:36 debugLogger [INFO] result is Results for 'milk'
+2020-03-31 18:22:39 debugLogger [INFO] Scrolled to Home_Back_To_Top_Arrow
+2020-03-31 18:22:42 debugLogger [INFO] ExplicitWait Element Present: Home_Back_To_Top_Arrow
+2020-03-31 18:22:45 debugLogger [INFO] Element is found and clicked: First_Product_FatController
+2020-03-31 18:22:45 debugLogger [INFO] Element found: Search_Tile1
+2020-03-31 18:22:45 debugLogger [INFO] Full Cream Long Life Milk
+2020-03-31 18:22:48 debugLogger [INFO] Element is found and clicked: Trolley and checkout
+2020-03-31 18:22:48 debugLogger [INFO] ExplicitWait Element Present: Trolly_First_Item
+2020-03-31 18:22:48 debugLogger [INFO] Element found: Trolly_First_Item
+2020-03-31 18:22:48 debugLogger [INFO] Full Cream Long Life Milk 1L
+2020-03-31 18:22:48 debugLogger [INFO] Multisearch added item is same as in Trolley
+2020-03-31 18:22:51 debugLogger [INFO] Element is found and clicked: Close_Superbar
+2020-03-31 18:22:51 debugLogger [INFO] Element MultiSearch_Success_Icon is present.
+2020-03-31 18:22:51 debugLogger [INFO] The multisearch product is showing in green color, having HEX Code: #008a23
+2020-03-31 18:22:54 debugLogger [INFO] Element is found and clicked: MulitSearchManage_Overlay_secondItem
+2020-03-31 18:22:54 debugLogger [INFO] ExplicitWait Element Present: Results_For
+2020-03-31 18:22:55 debugLogger [INFO] ExplicitWait Element Present: Everything_Sortedby_ChangeLink
+2020-03-31 18:22:56 debugLogger [INFO] Element found: Results_For
+2020-03-31 18:22:56 debugLogger [INFO] result is Results for 'tea'
+2020-03-31 18:23:00 debugLogger [INFO] Scrolled to Home_Back_To_Top_Arrow
+2020-03-31 18:23:03 debugLogger [INFO] ExplicitWait Element Present: Home_Back_To_Top_Arrow
+2020-03-31 18:23:05 debugLogger [INFO] Element is found and clicked: First_Product_FatController
+2020-03-31 18:23:05 debugLogger [INFO] Element found: Search_Tile1
+2020-03-31 18:23:05 debugLogger [INFO] Decaffeinatted Black Tea Bags
+2020-03-31 18:23:08 debugLogger [INFO] Element is found and clicked: Trolley and checkout
+2020-03-31 18:23:09 debugLogger [INFO] ExplicitWait Element Present: Trolly_First_Item
+2020-03-31 18:23:09 debugLogger [INFO] Element found: Trolly_First_Item
+2020-03-31 18:23:09 debugLogger [INFO] Decaffeinatted Black Tea Bags 50 pack
+2020-03-31 18:23:09 debugLogger [INFO] Multisearch added item is same as in Trolley
+2020-03-31 18:23:11 debugLogger [INFO] Element is found and clicked: Close_Superbar
+2020-03-31 18:23:11 debugLogger [INFO] Element MultiSearch_Success_Icon is present.
+2020-03-31 18:23:12 debugLogger [INFO] The multisearch product is showing in green color, having HEX Code: #008a23
+2020-03-31 18:23:14 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 18:23:14 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 18:23:17 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 19:20:06 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:20:06 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:20:06 debugLogger [INFO] Reached here Login before
+2020-03-31 19:20:06 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:20:21 debugLogger [INFO] Loading Device...
+2020-03-31 19:20:21 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:20:21 debugLogger [INFO] TCID match found
+2020-03-31 19:20:21 debugLogger [INFO] Username for test is 
+2020-03-31 19:20:21 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:20:21 debugLogger [INFO] Firstname for test is Test
+2020-03-31 19:20:21 debugLogger [INFO] lastname for test  is  user
+2020-03-31 19:20:21 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:20:21 debugLogger [INFO] Nickname for test  is  HD
+2020-03-31 19:20:21 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:20:30 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:20:30 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:20:30 debugLogger [INFO] Reached here Login before
+2020-03-31 19:20:30 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:20:45 debugLogger [INFO] Loading Device...
+2020-03-31 19:20:45 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:20:45 debugLogger [INFO] TCID match found
+2020-03-31 19:20:45 debugLogger [INFO] Username for test is dummytest001@mailinator.com
+2020-03-31 19:20:45 debugLogger [INFO] password for test  is  dummytest001
+2020-03-31 19:20:45 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:20:45 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:20:45 debugLogger [INFO] password for test  is  dummytest001
+2020-03-31 19:20:45 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:20:45 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:20:55 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:20:55 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:20:55 debugLogger [INFO] Reached here Login before
+2020-03-31 19:20:55 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:20:56 debugLogger [INFO] Loading Device...
+2020-03-31 19:20:56 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:20:56 debugLogger [INFO] TCID match found
+2020-03-31 19:20:56 debugLogger [INFO] Username for test is loggedinuser@mailinator.com
+2020-03-31 19:20:56 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:20:56 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:20:56 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:20:56 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:20:56 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:20:56 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:21:06 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:21:06 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:21:06 debugLogger [INFO] Reached here Login before
+2020-03-31 19:21:06 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:21:17 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:21:17 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:21:19 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:21:19 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:21:19 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:21:23 debugLogger [ERROR] Element not found for clicking: SB_Login_Signup_Option
+2020-03-31 19:21:23 debugLogger [INFO] In Click_Button_XpathEnd function ending test as the status is 1
+2020-03-31 19:21:23 debugLogger [INFO] Loading Device...
+2020-03-31 19:21:23 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:21:23 debugLogger [INFO] TCID match found
+2020-03-31 19:21:23 debugLogger [INFO] Username for test is 
+2020-03-31 19:21:23 debugLogger [INFO] password for test  is  
+2020-03-31 19:21:23 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:21:23 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:21:23 debugLogger [INFO] password for test  is  
+2020-03-31 19:21:23 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:21:23 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:21:32 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:21:32 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:21:32 debugLogger [INFO] Reached here Login before
+2020-03-31 19:21:32 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:21:43 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:21:45 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_Change_Link
+2020-03-31 19:21:47 debugLogger [INFO] Data entered for text box: Geo_Location_Bar_SearchField
+2020-03-31 19:21:53 debugLogger [ERROR] Element not found for clicking: Geo_Location_Bar_First_Suggested_Suburb
+2020-03-31 19:21:53 debugLogger [INFO] In Click_Button_XpathEnd function ending test as the status is 1
+2020-03-31 19:26:32 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:26:32 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:26:32 debugLogger [INFO] Reached here Login before
+2020-03-31 19:26:32 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:26:44 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:26:46 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:26:48 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:26:48 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:26:48 debugLogger [INFO] Searched SKU: milk
+2020-03-31 19:26:53 debugLogger [INFO] Element is found and clicked: Guest_Add_Product_Button
+2020-03-31 19:26:53 debugLogger [INFO] ExplicitWait Element Present: Login_Page_Heading
+2020-03-31 19:26:55 debugLogger [INFO] verification element: Log in
+2020-03-31 19:26:55 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:26:55 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:26:57 debugLogger [INFO] verification element: Sign up
+2020-03-31 19:26:57 debugLogger [INFO] Actual element is: Sign up
+2020-03-31 19:26:57 debugLogger [INFO] Element is found and same as the desired text: Sign up
+2020-03-31 19:26:59 debugLogger [INFO] Element is found and clicked: Close_Login_Page_Btn
+2020-03-31 19:27:04 debugLogger [INFO] Element is found and clicked: Clear_Search_Link
+2020-03-31 19:27:07 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:27:09 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:27:09 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:27:09 debugLogger [INFO] Searched SKU: bread
+2020-03-31 19:27:12 debugLogger [INFO] Element is found and clicked: Guest_Add_Product_Button
+2020-03-31 19:27:12 debugLogger [INFO] ExplicitWait Element Present: Login_Page_Heading
+2020-03-31 19:27:14 debugLogger [INFO] verification element: Log in
+2020-03-31 19:27:14 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:27:14 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:27:17 debugLogger [INFO] verification element: Sign up
+2020-03-31 19:27:17 debugLogger [INFO] Actual element is: Sign up
+2020-03-31 19:27:17 debugLogger [INFO] Element is found and same as the desired text: Sign up
+2020-03-31 19:27:19 debugLogger [INFO] Element is found and clicked: Close_Login_Page_Btn
+2020-03-31 19:27:24 debugLogger [INFO] Element is found and clicked: Clear_Search_Link
+2020-03-31 19:27:27 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:27:30 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:27:30 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:27:30 debugLogger [INFO] Searched SKU: chocolate
+2020-03-31 19:27:33 debugLogger [INFO] Element is found and clicked: Guest_Add_Product_Button
+2020-03-31 19:27:33 debugLogger [INFO] ExplicitWait Element Present: Login_Page_Heading
+2020-03-31 19:27:35 debugLogger [INFO] verification element: Log in
+2020-03-31 19:27:35 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:27:35 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:27:37 debugLogger [INFO] verification element: Sign up
+2020-03-31 19:27:37 debugLogger [INFO] Actual element is: Sign up
+2020-03-31 19:27:37 debugLogger [INFO] Element is found and same as the desired text: Sign up
+2020-03-31 19:27:40 debugLogger [INFO] Element is found and clicked: Close_Login_Page_Btn
+2020-03-31 19:27:45 debugLogger [INFO] Element is found and clicked: Clear_Search_Link
+2020-03-31 19:27:47 debugLogger [INFO] Loading Device...
+2020-03-31 19:27:47 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:27:47 debugLogger [INFO] TCID match found
+2020-03-31 19:27:47 debugLogger [INFO] Username for test is 
+2020-03-31 19:27:47 debugLogger [INFO] password for test  is  
+2020-03-31 19:27:47 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:27:47 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:27:47 debugLogger [INFO] password for test  is  
+2020-03-31 19:27:47 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:27:47 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:27:56 debugLogger [INFO] Loading Device...
+2020-03-31 19:27:56 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:27:56 debugLogger [INFO] TCID match found
+2020-03-31 19:27:56 debugLogger [INFO] Username for test is 
+2020-03-31 19:27:56 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:27:56 debugLogger [INFO] Firstname for test is Test
+2020-03-31 19:27:56 debugLogger [INFO] lastname for test  is  user
+2020-03-31 19:27:56 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:27:56 debugLogger [INFO] Nickname for test  is  HD
+2020-03-31 19:27:56 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:28:05 debugLogger [INFO] Loading Device...
+2020-03-31 19:28:05 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:28:05 debugLogger [INFO] TCID match found
+2020-03-31 19:28:05 debugLogger [INFO] Username for test is dummytest001@mailinator.com
+2020-03-31 19:28:05 debugLogger [INFO] password for test  is  dummytest001
+2020-03-31 19:28:05 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:28:05 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:28:05 debugLogger [INFO] password for test  is  dummytest001
+2020-03-31 19:28:05 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:28:05 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:28:14 debugLogger [INFO] Loading Device...
+2020-03-31 19:28:15 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:28:15 debugLogger [INFO] TCID match found
+2020-03-31 19:28:15 debugLogger [INFO] Username for test is loggedinuser@mailinator.com
+2020-03-31 19:28:15 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:28:15 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:28:15 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:28:15 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:28:15 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:28:15 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:28:24 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:28:24 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:28:24 debugLogger [INFO] Reached here Login before
+2020-03-31 19:28:24 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:28:36 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:28:36 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:28:38 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:28:38 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:28:38 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:28:40 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 19:28:40 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 19:28:42 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 19:28:46 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 19:28:46 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 19:28:48 debugLogger [INFO] verification element: Log in
+2020-03-31 19:28:48 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:28:48 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:28:50 debugLogger [INFO] Text cleared for Password
+2020-03-31 19:28:53 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 19:28:56 debugLogger [ERROR] Element not found for clicking: Login_Button
+2020-03-31 19:28:56 debugLogger [INFO] In Click_Button_XpathEnd function ending test as the status is 1
+2020-03-31 19:28:56 debugLogger [INFO] Loading Device...
+2020-03-31 19:28:56 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:28:56 debugLogger [INFO] TCID match found
+2020-03-31 19:28:56 debugLogger [INFO] Username for test is 
+2020-03-31 19:28:56 debugLogger [INFO] password for test  is  
+2020-03-31 19:28:56 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:28:56 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:28:56 debugLogger [INFO] password for test  is  
+2020-03-31 19:28:56 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:28:56 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:33:58 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:33:58 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:33:58 debugLogger [INFO] Reached here Login before
+2020-03-31 19:33:58 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:34:09 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:34:11 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:34:14 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:34:14 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:34:14 debugLogger [INFO] Searched SKU: milk
+2020-03-31 19:34:20 debugLogger [INFO] Element is found and clicked: Guest_Add_Product_Button
+2020-03-31 19:34:20 debugLogger [INFO] ExplicitWait Element Present: Login_Page_Heading
+2020-03-31 19:34:22 debugLogger [INFO] verification element: Log in
+2020-03-31 19:34:22 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:34:22 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:34:24 debugLogger [INFO] verification element: Sign up
+2020-03-31 19:34:24 debugLogger [INFO] Actual element is: Sign up
+2020-03-31 19:34:24 debugLogger [INFO] Element is found and same as the desired text: Sign up
+2020-03-31 19:34:27 debugLogger [INFO] Element is found and clicked: Close_Login_Page_Btn
+2020-03-31 19:34:31 debugLogger [INFO] Element is found and clicked: Clear_Search_Link
+2020-03-31 19:34:34 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:34:37 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:34:37 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:34:37 debugLogger [INFO] Searched SKU: bread
+2020-03-31 19:34:40 debugLogger [INFO] Element is found and clicked: Guest_Add_Product_Button
+2020-03-31 19:34:40 debugLogger [INFO] ExplicitWait Element Present: Login_Page_Heading
+2020-03-31 19:34:42 debugLogger [INFO] verification element: Log in
+2020-03-31 19:34:42 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:34:42 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:34:44 debugLogger [INFO] verification element: Sign up
+2020-03-31 19:34:44 debugLogger [INFO] Actual element is: Sign up
+2020-03-31 19:34:44 debugLogger [INFO] Element is found and same as the desired text: Sign up
+2020-03-31 19:34:47 debugLogger [INFO] Element is found and clicked: Close_Login_Page_Btn
+2020-03-31 19:34:52 debugLogger [INFO] Element is found and clicked: Clear_Search_Link
+2020-03-31 19:34:55 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:34:57 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:34:57 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:34:57 debugLogger [INFO] Searched SKU: chocolate
+2020-03-31 19:35:00 debugLogger [INFO] Element is found and clicked: Guest_Add_Product_Button
+2020-03-31 19:35:00 debugLogger [INFO] ExplicitWait Element Present: Login_Page_Heading
+2020-03-31 19:35:02 debugLogger [INFO] verification element: Log in
+2020-03-31 19:35:02 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:35:02 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:35:04 debugLogger [INFO] verification element: Sign up
+2020-03-31 19:35:04 debugLogger [INFO] Actual element is: Sign up
+2020-03-31 19:35:04 debugLogger [INFO] Element is found and same as the desired text: Sign up
+2020-03-31 19:35:07 debugLogger [INFO] Element is found and clicked: Close_Login_Page_Btn
+2020-03-31 19:35:11 debugLogger [INFO] Element is found and clicked: Clear_Search_Link
+2020-03-31 19:35:14 debugLogger [INFO] Loading Device...
+2020-03-31 19:35:14 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:35:14 debugLogger [INFO] TCID match found
+2020-03-31 19:35:14 debugLogger [INFO] Username for test is 
+2020-03-31 19:35:14 debugLogger [INFO] password for test  is  
+2020-03-31 19:35:14 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:35:14 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:35:14 debugLogger [INFO] password for test  is  
+2020-03-31 19:35:14 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:35:14 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:35:26 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:35:26 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:35:26 debugLogger [INFO] Reached here Login before
+2020-03-31 19:35:26 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:35:36 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:35:36 debugLogger [INFO] Element Bought-before is present.
+2020-03-31 19:35:39 debugLogger [INFO] Element is found and clicked: Bought-before
+2020-03-31 19:35:39 debugLogger [INFO] ExplicitWait Element Present: Best_Before_Msg
+2020-03-31 19:35:41 debugLogger [INFO] verification element: Products you buy will be saved here to make them easier to find
+2020-03-31 19:35:41 debugLogger [INFO] Actual element is: Products you buy will be saved here to make them easier to find
+2020-03-31 19:35:41 debugLogger [INFO] Element is found and same as the desired text: Products you buy will be saved here to make them easier to find
+2020-03-31 19:35:43 debugLogger [INFO] Loading Device...
+2020-03-31 19:35:43 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:35:43 debugLogger [INFO] TCID match found
+2020-03-31 19:35:43 debugLogger [INFO] Username for test is 
+2020-03-31 19:35:43 debugLogger [INFO] password for test  is  
+2020-03-31 19:35:43 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:35:43 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:35:43 debugLogger [INFO] password for test  is  
+2020-03-31 19:35:43 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:35:43 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:35:53 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:35:53 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:35:53 debugLogger [INFO] Reached here Login before
+2020-03-31 19:35:53 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:36:04 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:36:08 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 19:36:08 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 19:36:10 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 19:36:15 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 19:36:18 debugLogger [INFO] Element is found and clicked: Everything_Sortedby_ChangeLink
+2020-03-31 19:36:20 debugLogger [INFO] Element is found and clicked: Everything_Brand
+2020-03-31 19:36:24 debugLogger [INFO] Element is found and clicked: Everything_Save_Button
+2020-03-31 19:36:24 debugLogger [INFO] ExplicitWait Element Present: ProductTile_xpath_Counter
+2020-03-31 19:36:26 debugLogger [INFO] count of objects for ProductTile_xpath_Counter is :48
+2020-03-31 19:36:26 debugLogger [INFO] The tile no.1 with brand name: Abbott's Village Bakery is less than or equal to the tile no.2 with brand name: Abbott's Village Bakery
+2020-03-31 19:36:26 debugLogger [INFO] The tile no.2 with brand name: Abbott's Village Bakery is less than or equal to the tile no.3 with brand name: Abbott's Village Bakery
+2020-03-31 19:36:26 debugLogger [INFO] The tile no.3 with brand name: Abbott's Village Bakery is less than or equal to the tile no.4 with brand name: Abe's Bagels
+2020-03-31 19:36:26 debugLogger [INFO] The tile no.4 with brand name: Abe's Bagels is less than or equal to the tile no.5 with brand name: Abe's Bagels
+2020-03-31 19:36:26 debugLogger [INFO] The tile no.5 with brand name: Abe's Bagels is less than or equal to the tile no.6 with brand name: Abe's Bagels
+2020-03-31 19:36:26 debugLogger [INFO] The tile no.6 with brand name: Abe's Bagels is less than or equal to the tile no.7 with brand name: Brioche
+2020-03-31 19:36:26 debugLogger [INFO] The tile no.7 with brand name: Brioche is less than or equal to the tile no.8 with brand name: Cadbury
+2020-03-31 19:36:27 debugLogger [INFO] The tile no.8 with brand name: Cadbury is less than or equal to the tile no.9 with brand name: Coles
+2020-03-31 19:36:27 debugLogger [INFO] The tile no.9 with brand name: Coles is less than or equal to the tile no.10 with brand name: Coles
+2020-03-31 19:36:27 debugLogger [INFO] The tile no.10 with brand name: Coles is less than or equal to the tile no.11 with brand name: Coles
+2020-03-31 19:36:27 debugLogger [INFO] The tile no.11 with brand name: Coles is less than or equal to the tile no.12 with brand name: Coles
+2020-03-31 19:36:29 debugLogger [INFO] Loading Device...
+2020-03-31 19:36:29 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:36:29 debugLogger [INFO] TCID match found
+2020-03-31 19:36:29 debugLogger [INFO] Username for test is sanitytest1_vicmetro@mailinator.com
+2020-03-31 19:36:29 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 19:36:29 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:36:29 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:36:29 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 19:36:29 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:36:29 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:36:40 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:36:40 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:36:40 debugLogger [INFO] Reached here Login before
+2020-03-31 19:36:40 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:36:50 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:36:54 debugLogger [INFO] Element is found and clicked: Choose_A_Delivery_Time
+2020-03-31 19:36:54 debugLogger [INFO] ExplicitWait Element Present: Choose_Delivery_Info_Msg
+2020-03-31 19:36:56 debugLogger [INFO] Element is found and clicked: View_Delivery_Collection_Times_Link
+2020-03-31 19:36:56 debugLogger [INFO] ExplicitWait Element Present: Choose_Delivery_Login_Link
+2020-03-31 19:36:58 debugLogger [INFO] Element is found and clicked: Choose_Delivery_Login_Link
+2020-03-31 19:36:59 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 19:37:01 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 19:37:04 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 19:37:04 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 19:37:06 debugLogger [INFO] verification element: Log in
+2020-03-31 19:37:06 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:37:06 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:37:08 debugLogger [INFO] Text cleared for Password
+2020-03-31 19:37:11 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 19:37:13 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 19:37:23 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 19:37:25 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 19:37:25 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 19:37:25 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 19:37:25 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 19:37:27 debugLogger [INFO] verification element: You have been logged in as Register one
+2020-03-31 19:37:27 debugLogger [INFO] Actual element is: You have been logged in as Register one
+2020-03-31 19:37:27 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Register one
+2020-03-31 19:37:30 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 19:37:33 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 19:37:33 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 19:37:35 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 19:37:39 debugLogger [INFO] Loading Device...
+2020-03-31 19:37:39 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:37:39 debugLogger [INFO] TCID match found
+2020-03-31 19:37:39 debugLogger [INFO] Username for test is 
+2020-03-31 19:37:39 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 19:37:39 debugLogger [INFO] Firstname for test is Test
+2020-03-31 19:37:39 debugLogger [INFO] lastname for test  is  user
+2020-03-31 19:37:39 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 19:37:39 debugLogger [INFO] Nickname for test  is  HD
+2020-03-31 19:37:39 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:37:50 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:37:50 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:37:50 debugLogger [INFO] Reached here Login before
+2020-03-31 19:37:50 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:38:00 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:38:03 debugLogger [INFO] Element is found and clicked: Choose_A_Delivery_Time
+2020-03-31 19:38:03 debugLogger [INFO] ExplicitWait Element Present: Choose_Delivery_Info_Msg
+2020-03-31 19:38:06 debugLogger [INFO] Element is found and clicked: View_Delivery_Collection_Times_Link
+2020-03-31 19:38:06 debugLogger [INFO] ExplicitWait Element Present: Choose_Delivery_Signup_Link
+2020-03-31 19:38:08 debugLogger [INFO] Element is found and clicked: Choose_Delivery_Signup_Link
+2020-03-31 19:38:10 debugLogger [INFO] Text cleared for Registration_First_Name_Text
+2020-03-31 19:38:13 debugLogger [INFO] Data entered for text box: Registration_First_Name_Text
+2020-03-31 19:38:15 debugLogger [INFO] Text cleared for Registration_Last_Name_Text
+2020-03-31 19:38:19 debugLogger [INFO] Data entered for text box: Registration_Last_Name_Text
+2020-03-31 19:38:19 debugLogger [INFO] Email ID is: automation31032020193819@mailinator.com
+2020-03-31 19:38:21 debugLogger [INFO] Text cleared for Registration_Emailid_Text
+2020-03-31 19:38:24 debugLogger [INFO] Data entered for text box: Registration_Emailid_Text
+2020-03-31 19:38:26 debugLogger [INFO] Text cleared for Registration_Password_Text
+2020-03-31 19:38:29 debugLogger [INFO] Data entered for text box: password
+2020-03-31 19:38:32 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button
+2020-03-31 19:38:32 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:38:32 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:38:34 debugLogger [INFO] Text cleared for Street_Address_Input
+2020-03-31 19:38:37 debugLogger [INFO] Data entered for text box: Street_Address_Input
+2020-03-31 19:38:39 debugLogger [INFO] Text cleared for Suburb_Input
+2020-03-31 19:38:42 debugLogger [INFO] Data entered for text box: Suburb_Input
+2020-03-31 19:38:44 debugLogger [INFO] Text cleared for Postcode_Input
+2020-03-31 19:38:47 debugLogger [INFO] Data entered for text box: Postcode_Input
+2020-03-31 19:38:50 debugLogger [INFO] Text cleared for Registration_Address_Nickname_Text
+2020-03-31 19:38:53 debugLogger [INFO] Data entered for text box: Registration_Address_Nickname_Text
+2020-03-31 19:38:55 debugLogger [INFO] Text cleared for Registration_Mobile_Number_Field
+2020-03-31 19:38:58 debugLogger [INFO] Data entered for text box: Registration_Mobile_Number_Field
+2020-03-31 19:39:00 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button_page2
+2020-03-31 19:39:01 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:39:03 debugLogger [INFO] verification element: Please verify your address...
+2020-03-31 19:39:03 debugLogger [INFO] Actual element is: Please verify your address...
+2020-03-31 19:39:03 debugLogger [INFO] Element is found and same as the desired text: Please verify your address...
+2020-03-31 19:39:06 debugLogger [INFO] Element is found and clicked: Registration_Select_Address_HD
+2020-03-31 19:39:12 debugLogger [INFO] ExplicitWait Element Present: Registration_Account_Creation_Confirmation
+2020-03-31 19:39:14 debugLogger [INFO] verification element: Your account has been created
+2020-03-31 19:39:14 debugLogger [INFO] Actual element is: Your account has been created
+2020-03-31 19:39:14 debugLogger [INFO] Element is found and same as the desired text: Your account has been created
+2020-03-31 19:39:15 debugLogger [INFO] ExplicitWait Element Present: Registration_shopping_button
+2020-03-31 19:39:17 debugLogger [INFO] Element is found and clicked: Registration_shopping_button
+2020-03-31 19:39:18 debugLogger [INFO] Element Link_Flybuys_Button is present.
+2020-03-31 19:39:20 debugLogger [INFO] Element is found and clicked: Fly_buy_skip
+2020-03-31 19:39:23 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 19:39:23 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 19:39:26 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 19:39:29 debugLogger [INFO] Loading Device...
+2020-03-31 19:39:29 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:39:29 debugLogger [INFO] TCID match found
+2020-03-31 19:39:29 debugLogger [INFO] Username for test is 
+2020-03-31 19:39:29 debugLogger [INFO] password for test  is  
+2020-03-31 19:39:29 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:39:29 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:39:29 debugLogger [INFO] password for test  is  
+2020-03-31 19:39:29 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:39:29 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:39:40 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:39:40 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:39:40 debugLogger [INFO] Reached here Login before
+2020-03-31 19:39:40 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:39:51 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:39:54 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 19:39:55 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 19:39:59 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 19:40:01 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 19:40:04 debugLogger [INFO] Element is found and clicked: show Filters
+2020-03-31 19:40:06 debugLogger [INFO] verification element: Filter products
+2020-03-31 19:40:06 debugLogger [INFO] Actual element is: Filter products
+2020-03-31 19:40:06 debugLogger [INFO] Element is found and same as the desired text: Filter products
+2020-03-31 19:40:08 debugLogger [INFO] verification element: Filter by Brand
+2020-03-31 19:40:08 debugLogger [INFO] Actual element is: Filter by Brand
+2020-03-31 19:40:08 debugLogger [INFO] Element is found and same as the desired text: Filter by Brand
+2020-03-31 19:40:11 debugLogger [INFO] Element is found and clicked: FilterBy_Brand
+2020-03-31 19:40:11 debugLogger [INFO] ExplicitWait Element Present: FilterPopup_Search_Input
+2020-03-31 19:40:14 debugLogger [INFO] Data entered for text box: FilterPopup_Search_Input
+2020-03-31 19:40:14 debugLogger [INFO] Element found: FilterPopup_FilterValueHeading
+2020-03-31 19:40:17 debugLogger [INFO] Element is found and clicked: Filter_Popup_ClearSearch'
+2020-03-31 19:40:19 debugLogger [INFO] Element is found and clicked: FilterPopup_BrandCheckbox
+2020-03-31 19:40:20 debugLogger [INFO] Element found: FilterPopup_TotalFilteredProduct
+2020-03-31 19:40:20 debugLogger [INFO] selected brand is: Mars. Total products for the selected Brand is: 2
+2020-03-31 19:40:22 debugLogger [INFO] Element is found and clicked: FilterPopup_ShowFilteredProducts
+2020-03-31 19:40:24 debugLogger [INFO] count of objects for ProductTile_xpath_Counter is :2
+2020-03-31 19:40:41 debugLogger [INFO] count of objects for Everything_Merch_Assoc_Box is :0
+2020-03-31 19:40:43 debugLogger [INFO] count of objects for ProductName_xpath_Counter is :2
+2020-03-31 19:40:43 debugLogger [INFO] ProductTile Count and BrandName is correctly displayed.
+2020-03-31 19:40:43 debugLogger [INFO] The tile no. 1 with brand name: Mars is same as filtered brand: Mars
+2020-03-31 19:40:43 debugLogger [INFO] The tile no. 2 with brand name: Mars is same as filtered brand: Mars
+2020-03-31 19:40:43 debugLogger [INFO] Number of Products displayed 2 is equal to the filtered products count2
+2020-03-31 19:40:45 debugLogger [INFO] Loading Device...
+2020-03-31 19:40:45 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:40:45 debugLogger [INFO] TCID match found
+2020-03-31 19:40:45 debugLogger [INFO] Username for test is 
+2020-03-31 19:40:45 debugLogger [INFO] password for test  is  
+2020-03-31 19:40:45 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:40:45 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:40:45 debugLogger [INFO] password for test  is  
+2020-03-31 19:40:45 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:40:45 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:40:56 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:40:56 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:40:56 debugLogger [INFO] Reached here Login before
+2020-03-31 19:40:56 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:41:07 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:41:09 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:41:12 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:41:12 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:41:13 debugLogger [INFO] Element found: Everything_Tobacco_Tile_Warning
+2020-03-31 19:41:13 debugLogger [INFO] String :We've hidden 3 matching products from these resultscontainsWe've hidden
+2020-03-31 19:41:16 debugLogger [INFO] Element is found and clicked: Home_icon
+2020-03-31 19:41:20 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:41:22 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:41:22 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:41:25 debugLogger [INFO] verification element: Under the NSW Liquor Regulations 2018- Liquor Act 2007:
+2020-03-31 19:41:25 debugLogger [INFO] Actual element is: Under the NSW Liquor Regulations 2018- Liquor Act 2007:
+2020-03-31 19:41:25 debugLogger [INFO] Element is found and same as the desired text: Under the NSW Liquor Regulations 2018- Liquor Act 2007:
+2020-03-31 19:41:27 debugLogger [INFO] Loading Device...
+2020-03-31 19:41:27 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:41:27 debugLogger [INFO] TCID match found
+2020-03-31 19:41:27 debugLogger [INFO] Username for test is 
+2020-03-31 19:41:27 debugLogger [INFO] password for test  is  
+2020-03-31 19:41:27 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:41:27 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:41:27 debugLogger [INFO] password for test  is  
+2020-03-31 19:41:27 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:41:27 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:41:38 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:41:38 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:41:38 debugLogger [INFO] Reached here Login before
+2020-03-31 19:41:38 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:41:49 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:41:51 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:41:54 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:41:54 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:41:55 debugLogger [INFO] Element found: Everything_Tobacco_Tile_Warning
+2020-03-31 19:41:55 debugLogger [INFO] String :We've hidden 3 matching products from these resultscontainsWe've hidden
+2020-03-31 19:41:57 debugLogger [INFO] Element is found and clicked: Show_These_Tobacco_Products_Btn
+2020-03-31 19:41:59 debugLogger [INFO] verification element: You must be over 18 to view these products. Please enter your date of birth to continue.
+2020-03-31 19:41:59 debugLogger [INFO] Actual element is: You must be over 18 to view these products. Please enter your date of birth to continue.
+2020-03-31 19:41:59 debugLogger [INFO] Element is found and same as the desired text: You must be over 18 to view these products. Please enter your date of birth to continue.
+2020-03-31 19:42:04 debugLogger [INFO] Element is found and clicked: Home_icon
+2020-03-31 19:42:07 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:42:10 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:42:10 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:42:12 debugLogger [INFO] verification element: Under the NSW Liquor Regulations 2018- Liquor Act 2007:
+2020-03-31 19:42:12 debugLogger [INFO] Actual element is: Under the NSW Liquor Regulations 2018- Liquor Act 2007:
+2020-03-31 19:42:12 debugLogger [INFO] Element is found and same as the desired text: Under the NSW Liquor Regulations 2018- Liquor Act 2007:
+2020-03-31 19:42:13 debugLogger [INFO] ExplicitWait Element Present: View_Liquor_Licence_Link
+2020-03-31 19:42:17 debugLogger [INFO] Element is found and clicked: View_Liquor_Licence_Link
+2020-03-31 19:42:17 debugLogger [INFO] ExplicitWait Element Present: Liquor_Licence_Page_Title
+2020-03-31 19:42:19 debugLogger [INFO] verification element: Orders with liquor and tobacco
+2020-03-31 19:42:19 debugLogger [INFO] Actual element is: Orders with liquor and tobacco
+2020-03-31 19:42:19 debugLogger [INFO] Element is found and same as the desired text: Orders with liquor and tobacco
+2020-03-31 19:42:21 debugLogger [INFO] Loading Device...
+2020-03-31 19:42:21 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:42:21 debugLogger [INFO] TCID match found
+2020-03-31 19:42:21 debugLogger [INFO] Username for test is 
+2020-03-31 19:42:21 debugLogger [INFO] password for test  is  
+2020-03-31 19:42:21 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:42:21 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:42:21 debugLogger [INFO] password for test  is  
+2020-03-31 19:42:21 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:42:21 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:42:31 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:42:31 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:42:31 debugLogger [INFO] Reached here Login before
+2020-03-31 19:42:31 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:42:42 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:42:42 debugLogger [INFO] Title is Coles Online
+2020-03-31 19:42:42 debugLogger [INFO] Element Coles_Logo is present.
+2020-03-31 19:42:42 debugLogger [INFO] Element Home_icon is present.
+2020-03-31 19:42:44 debugLogger [INFO] verification element: Search for a product e.g. milk
+2020-03-31 19:42:44 debugLogger [INFO] Actual element is: Search for a product e.g. milk
+2020-03-31 19:42:44 debugLogger [INFO] Element is found and same as the desired text: Search for a product e.g. milk
+2020-03-31 19:42:46 debugLogger [INFO] verification element: Everything
+2020-03-31 19:42:46 debugLogger [INFO] Actual element is: Everything
+2020-03-31 19:42:46 debugLogger [INFO] Element is found and same as the desired text: Everything
+2020-03-31 19:42:48 debugLogger [INFO] verification element: Bought Before
+2020-03-31 19:42:48 debugLogger [INFO] Actual element is: Bought Before
+2020-03-31 19:42:48 debugLogger [INFO] Element is found and same as the desired text: Bought Before
+2020-03-31 19:42:50 debugLogger [INFO] verification element: Specials
+2020-03-31 19:42:50 debugLogger [INFO] Actual element is: Specials
+2020-03-31 19:42:50 debugLogger [INFO] Element is found and same as the desired text: Specials
+2020-03-31 19:42:52 debugLogger [INFO] verification element: More
+2020-03-31 19:42:52 debugLogger [INFO] Actual element is: More
+2020-03-31 19:42:52 debugLogger [INFO] Element is found and same as the desired text: More
+2020-03-31 19:42:54 debugLogger [INFO] Element is found and clicked: More
+2020-03-31 19:42:56 debugLogger [INFO] verification element: Open a new tab
+2020-03-31 19:42:56 debugLogger [INFO] Actual element is: Open a new tab
+2020-03-31 19:42:56 debugLogger [INFO] Element is found and same as the desired text: Open a new tab
+2020-03-31 19:42:58 debugLogger [INFO] verification element: Shop Product Selections
+2020-03-31 19:42:58 debugLogger [INFO] Actual element is: Shop Product Selections
+2020-03-31 19:42:58 debugLogger [INFO] Element is found and same as the desired text: Shop Product Selections
+2020-03-31 19:43:00 debugLogger [INFO] verification element: $0.00
+2020-03-31 19:43:00 debugLogger [INFO] Actual element is: $0.00
+2020-03-31 19:43:00 debugLogger [INFO] Element is found and same as the desired text: $0.00
+2020-03-31 19:43:02 debugLogger [INFO] verification element: Trolley and checkout
+2020-03-31 19:43:02 debugLogger [INFO] Actual element is: Trolley and checkout
+2020-03-31 19:43:02 debugLogger [INFO] Element is found and same as the desired text: Trolley and checkout
+2020-03-31 19:43:04 debugLogger [INFO] verification element: Choose a delivery time
+2020-03-31 19:43:04 debugLogger [INFO] Actual element is: Choose a delivery time
+2020-03-31 19:43:04 debugLogger [INFO] Element is found and same as the desired text: Choose a delivery time
+2020-03-31 19:43:06 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:43:06 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:43:06 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:43:08 debugLogger [INFO] verification element: Help / Support
+2020-03-31 19:43:08 debugLogger [INFO] Actual element is: Help / Support
+2020-03-31 19:43:08 debugLogger [INFO] Element is found and same as the desired text: Help / Support
+2020-03-31 19:43:10 debugLogger [INFO] Loading Device...
+2020-03-31 19:43:10 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:43:10 debugLogger [INFO] TCID match found
+2020-03-31 19:43:10 debugLogger [INFO] Username for test is 
+2020-03-31 19:43:10 debugLogger [INFO] password for test  is  
+2020-03-31 19:43:10 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:43:10 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:43:10 debugLogger [INFO] password for test  is  
+2020-03-31 19:43:10 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:43:10 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:43:20 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:43:20 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:43:20 debugLogger [INFO] Reached here Login before
+2020-03-31 19:43:20 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:43:32 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:43:34 debugLogger [INFO] Data entered for text box: Search_Input_Field
+2020-03-31 19:43:37 debugLogger [INFO] Element is found and clicked: Search_Button
+2020-03-31 19:43:37 debugLogger [INFO] ExplicitWait Element Present: Clear_Search_Link
+2020-03-31 19:43:39 debugLogger [INFO] verification element: Sorry no results have been found for 'invaliditem'
+2020-03-31 19:43:39 debugLogger [INFO] Actual element is: Sorry no results have been found for 'invaliditem'
+2020-03-31 19:43:39 debugLogger [INFO] Element is found and same as the desired text: Sorry no results have been found for 'invaliditem'
+2020-03-31 19:43:41 debugLogger [INFO] Loading Device...
+2020-03-31 19:43:41 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:43:41 debugLogger [INFO] TCID match found
+2020-03-31 19:43:41 debugLogger [INFO] Username for test is 
+2020-03-31 19:43:41 debugLogger [INFO] password for test  is  
+2020-03-31 19:43:41 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:43:41 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:43:41 debugLogger [INFO] password for test  is  
+2020-03-31 19:43:41 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:43:41 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:44:43 debugLogger [INFO] Loading Device...
+2020-03-31 19:44:43 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:44:43 debugLogger [INFO] TCID match found
+2020-03-31 19:44:43 debugLogger [INFO] Username for test is 
+2020-03-31 19:44:43 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:44:43 debugLogger [INFO] Firstname for test is Test
+2020-03-31 19:44:43 debugLogger [INFO] lastname for test  is  user
+2020-03-31 19:44:43 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:44:43 debugLogger [INFO] Nickname for test  is  HD
+2020-03-31 19:44:43 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:44:54 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:44:54 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:44:54 debugLogger [INFO] Reached here Login before
+2020-03-31 19:44:54 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:45:05 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:45:05 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:45:07 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:45:07 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:45:07 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:45:10 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 19:45:11 debugLogger [INFO] ExplicitWait Element Present: New_to_coles_online_link
+2020-03-31 19:45:13 debugLogger [INFO] Element is found and clicked: New_to_coles_online_link
+2020-03-31 19:45:13 debugLogger [INFO] ExplicitWait Element Present: Registration_First_Name_Text
+2020-03-31 19:45:15 debugLogger [INFO] Text cleared for Registration_First_Name_Text
+2020-03-31 19:45:18 debugLogger [INFO] Data entered for text box: Registration_First_Name_Text
+2020-03-31 19:45:20 debugLogger [INFO] Text cleared for Registration_Last_Name_Text
+2020-03-31 19:45:24 debugLogger [INFO] Data entered for text box: Registration_Last_Name_Text
+2020-03-31 19:45:26 debugLogger [INFO] Element is found and clicked: Name_Contact_Details_BusinessAcc_Checkbox
+2020-03-31 19:45:29 debugLogger [INFO] Data entered for text box: Superbar_Busniess_Name
+2020-03-31 19:45:32 debugLogger [INFO] Data entered for text box: Superbar_ABN_Number
+2020-03-31 19:45:33 debugLogger [INFO] Email ID is: automation31032020194533@mailinator.com
+2020-03-31 19:45:35 debugLogger [INFO] Text cleared for Registration_Emailid_Text
+2020-03-31 19:45:38 debugLogger [INFO] Data entered for text box: Registration_Emailid_Text
+2020-03-31 19:45:40 debugLogger [INFO] Text cleared for Registration_Password_Text
+2020-03-31 19:45:43 debugLogger [INFO] Data entered for text box: password
+2020-03-31 19:45:46 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button
+2020-03-31 19:45:46 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:45:46 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:45:48 debugLogger [INFO] Text cleared for Street_Address_Input
+2020-03-31 19:45:51 debugLogger [INFO] Data entered for text box: Street_Address_Input
+2020-03-31 19:45:53 debugLogger [INFO] Text cleared for Suburb_Input
+2020-03-31 19:45:56 debugLogger [INFO] Data entered for text box: Suburb_Input
+2020-03-31 19:45:58 debugLogger [INFO] Text cleared for Postcode_Input
+2020-03-31 19:46:01 debugLogger [INFO] Data entered for text box: Postcode_Input
+2020-03-31 19:46:04 debugLogger [INFO] Text cleared for Registration_Address_Nickname_Text
+2020-03-31 19:46:07 debugLogger [INFO] Data entered for text box: Registration_Address_Nickname_Text
+2020-03-31 19:46:09 debugLogger [INFO] Text cleared for Registration_Mobile_Number_Field
+2020-03-31 19:46:12 debugLogger [INFO] Data entered for text box: Registration_Mobile_Number_Field
+2020-03-31 19:46:14 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button_page2
+2020-03-31 19:46:15 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:46:18 debugLogger [INFO] verification element: Please verify your address...
+2020-03-31 19:46:18 debugLogger [INFO] Actual element is: Please verify your address...
+2020-03-31 19:46:18 debugLogger [INFO] Element is found and same as the desired text: Please verify your address...
+2020-03-31 19:46:20 debugLogger [INFO] Element is found and clicked: Registration_Select_Address_HD
+2020-03-31 19:46:25 debugLogger [INFO] ExplicitWait Element Present: Registration_Account_Creation_Confirmation
+2020-03-31 19:46:27 debugLogger [INFO] verification element: Your account has been created
+2020-03-31 19:46:27 debugLogger [INFO] Actual element is: Your account has been created
+2020-03-31 19:46:27 debugLogger [INFO] Element is found and same as the desired text: Your account has been created
+2020-03-31 19:46:27 debugLogger [INFO] ExplicitWait Element Present: Registration_shopping_button
+2020-03-31 19:46:30 debugLogger [INFO] Element is found and clicked: Registration_shopping_button
+2020-03-31 19:46:30 debugLogger [INFO] Element Link_Flybuys_Button is present.
+2020-03-31 19:46:33 debugLogger [INFO] Element is found and clicked: Fly_buy_skip
+2020-03-31 19:46:35 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 19:46:35 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 19:46:38 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 19:46:42 debugLogger [INFO] Loading Device...
+2020-03-31 19:46:42 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:46:42 debugLogger [INFO] TCID match found
+2020-03-31 19:46:42 debugLogger [INFO] Username for test is 
+2020-03-31 19:46:42 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:46:42 debugLogger [INFO] Firstname for test is Test
+2020-03-31 19:46:42 debugLogger [INFO] lastname for test  is  user
+2020-03-31 19:46:42 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:46:42 debugLogger [INFO] Nickname for test  is  RD
+2020-03-31 19:46:42 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:46:52 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:46:52 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:46:52 debugLogger [INFO] Reached here Login before
+2020-03-31 19:46:52 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:47:03 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:47:03 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:47:05 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:47:05 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:47:05 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:47:08 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 19:47:08 debugLogger [INFO] ExplicitWait Element Present: New_to_coles_online_link
+2020-03-31 19:47:11 debugLogger [INFO] Element is found and clicked: New_to_coles_online_link
+2020-03-31 19:47:11 debugLogger [INFO] ExplicitWait Element Present: Registration_First_Name_Text
+2020-03-31 19:47:13 debugLogger [INFO] Text cleared for Registration_First_Name_Text
+2020-03-31 19:47:16 debugLogger [INFO] Data entered for text box: Registration_First_Name_Text
+2020-03-31 19:47:18 debugLogger [INFO] Text cleared for Registration_Last_Name_Text
+2020-03-31 19:47:21 debugLogger [INFO] Data entered for text box: Registration_Last_Name_Text
+2020-03-31 19:47:21 debugLogger [INFO] Email ID is: automation31032020194721@mailinator.com
+2020-03-31 19:47:23 debugLogger [INFO] Text cleared for Registration_Emailid_Text
+2020-03-31 19:47:27 debugLogger [INFO] Data entered for text box: Registration_Emailid_Text
+2020-03-31 19:47:29 debugLogger [INFO] Text cleared for Registration_Password_Text
+2020-03-31 19:47:32 debugLogger [INFO] Data entered for text box: password
+2020-03-31 19:47:34 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button
+2020-03-31 19:47:34 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:47:34 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:47:36 debugLogger [INFO] Text cleared for Street_Address_Input
+2020-03-31 19:47:39 debugLogger [INFO] Data entered for text box: Street_Address_Input
+2020-03-31 19:47:41 debugLogger [INFO] Text cleared for Suburb_Input
+2020-03-31 19:47:45 debugLogger [INFO] Data entered for text box: Suburb_Input
+2020-03-31 19:47:47 debugLogger [INFO] Text cleared for Postcode_Input
+2020-03-31 19:47:50 debugLogger [INFO] Data entered for text box: Postcode_Input
+2020-03-31 19:47:52 debugLogger [INFO] Text cleared for Registration_Address_Nickname_Text
+2020-03-31 19:47:55 debugLogger [INFO] Data entered for text box: Registration_Address_Nickname_Text
+2020-03-31 19:47:57 debugLogger [INFO] Text cleared for Registration_Mobile_Number_Field
+2020-03-31 19:48:00 debugLogger [INFO] Data entered for text box: Registration_Mobile_Number_Field
+2020-03-31 19:48:03 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button_page2
+2020-03-31 19:48:04 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:48:06 debugLogger [INFO] verification element: Please verify your address...
+2020-03-31 19:48:06 debugLogger [INFO] Actual element is: Please verify your address...
+2020-03-31 19:48:06 debugLogger [INFO] Element is found and same as the desired text: Please verify your address...
+2020-03-31 19:48:08 debugLogger [INFO] Element is found and clicked: Registration_Select_Address_HD
+2020-03-31 19:48:15 debugLogger [INFO] ExplicitWait Element Present: Registration_Account_Creation_Confirmation
+2020-03-31 19:48:17 debugLogger [INFO] verification element: Your account has been created
+2020-03-31 19:48:17 debugLogger [INFO] Actual element is: Your account has been created
+2020-03-31 19:48:17 debugLogger [INFO] Element is found and same as the desired text: Your account has been created
+2020-03-31 19:48:19 debugLogger [INFO] verification element: Remote delivery and Click & Collect are available in your area
+2020-03-31 19:48:19 debugLogger [INFO] Actual element is: Remote delivery and Click & Collect are available in your area
+2020-03-31 19:48:19 debugLogger [INFO] Element is found and same as the desired text: Remote delivery and Click & Collect are available in your area
+2020-03-31 19:48:19 debugLogger [INFO] ExplicitWait Element Present: Registration_Account_Creation_Confirmation
+2020-03-31 19:48:21 debugLogger [INFO] verification element: Your account has been created
+2020-03-31 19:48:21 debugLogger [INFO] Actual element is: Your account has been created
+2020-03-31 19:48:21 debugLogger [INFO] Element is found and same as the desired text: Your account has been created
+2020-03-31 19:48:23 debugLogger [INFO] verification element: Remote delivery and Click & Collect are available in your area
+2020-03-31 19:48:23 debugLogger [INFO] Actual element is: Remote delivery and Click & Collect are available in your area
+2020-03-31 19:48:23 debugLogger [INFO] Element is found and same as the desired text: Remote delivery and Click & Collect are available in your area
+2020-03-31 19:48:23 debugLogger [INFO] ExplicitWait Element Present: Registration_shopping_button
+2020-03-31 19:48:25 debugLogger [INFO] Element is found and clicked: Registration_shopping_button
+2020-03-31 19:48:26 debugLogger [INFO] Element Link_Flybuys_Button is present.
+2020-03-31 19:48:28 debugLogger [INFO] Element is found and clicked: Fly_buy_skip
+2020-03-31 19:48:31 debugLogger [INFO] Element is found and clicked: Choose_A_Delivery_Time
+2020-03-31 19:48:31 debugLogger [INFO] Element found: RD_Address_Choose_Delivery
+2020-03-31 19:48:31 debugLogger [INFO] Registeed RD Address contains: RD
+2020-03-31 19:48:31 debugLogger [INFO] Registeed RD Address contains: 149 Wooliana Rd
+2020-03-31 19:48:31 debugLogger [INFO] Registeed RD Address contains: Daly River
+2020-03-31 19:48:31 debugLogger [INFO] Registeed RD Address contains: 0822
+2020-03-31 19:48:31 debugLogger [INFO] Registeed RD Address contains: NT
+2020-03-31 19:48:34 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 19:48:34 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 19:48:36 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 19:48:40 debugLogger [INFO] Loading Device...
+2020-03-31 19:48:40 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:48:40 debugLogger [INFO] TCID match found
+2020-03-31 19:48:40 debugLogger [INFO] Username for test is 
+2020-03-31 19:48:40 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:48:40 debugLogger [INFO] Firstname for test is Test
+2020-03-31 19:48:40 debugLogger [INFO] lastname for test  is  user
+2020-03-31 19:48:40 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:48:40 debugLogger [INFO] Nickname for test  is  HD
+2020-03-31 19:48:40 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:48:51 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:48:51 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:48:51 debugLogger [INFO] Reached here Login before
+2020-03-31 19:48:51 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:49:02 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:49:02 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:49:04 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:49:04 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:49:04 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:49:07 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 19:49:07 debugLogger [INFO] ExplicitWait Element Present: New_to_coles_online_link
+2020-03-31 19:49:10 debugLogger [INFO] Element is found and clicked: New_to_coles_online_link
+2020-03-31 19:49:10 debugLogger [INFO] ExplicitWait Element Present: Registration_First_Name_Text
+2020-03-31 19:49:12 debugLogger [INFO] Text cleared for Registration_First_Name_Text
+2020-03-31 19:49:15 debugLogger [INFO] Data entered for text box: Registration_First_Name_Text
+2020-03-31 19:49:17 debugLogger [INFO] Text cleared for Registration_Last_Name_Text
+2020-03-31 19:49:20 debugLogger [INFO] Data entered for text box: Registration_Last_Name_Text
+2020-03-31 19:49:20 debugLogger [INFO] Email ID is: automation31032020194920@mailinator.com
+2020-03-31 19:49:22 debugLogger [INFO] Text cleared for Registration_Emailid_Text
+2020-03-31 19:49:25 debugLogger [INFO] Data entered for text box: Registration_Emailid_Text
+2020-03-31 19:49:28 debugLogger [INFO] Text cleared for Registration_Password_Text
+2020-03-31 19:49:31 debugLogger [INFO] Data entered for text box: password
+2020-03-31 19:49:33 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button
+2020-03-31 19:49:33 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:49:33 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:49:35 debugLogger [INFO] Text cleared for Street_Address_Input
+2020-03-31 19:49:38 debugLogger [INFO] Data entered for text box: Street_Address_Input
+2020-03-31 19:49:40 debugLogger [INFO] Text cleared for Suburb_Input
+2020-03-31 19:49:43 debugLogger [INFO] Data entered for text box: Suburb_Input
+2020-03-31 19:49:46 debugLogger [INFO] Text cleared for Postcode_Input
+2020-03-31 19:49:49 debugLogger [INFO] Data entered for text box: Postcode_Input
+2020-03-31 19:49:51 debugLogger [INFO] Text cleared for Registration_Address_Nickname_Text
+2020-03-31 19:49:54 debugLogger [INFO] Data entered for text box: Registration_Address_Nickname_Text
+2020-03-31 19:49:56 debugLogger [INFO] Text cleared for Registration_Mobile_Number_Field
+2020-03-31 19:49:59 debugLogger [INFO] Data entered for text box: Registration_Mobile_Number_Field
+2020-03-31 19:50:02 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button_page2
+2020-03-31 19:50:03 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:50:05 debugLogger [INFO] verification element: Please verify your address...
+2020-03-31 19:50:05 debugLogger [INFO] Actual element is: Please verify your address...
+2020-03-31 19:50:05 debugLogger [INFO] Element is found and same as the desired text: Please verify your address...
+2020-03-31 19:50:07 debugLogger [INFO] Element is found and clicked: Registration_Select_Address_HD
+2020-03-31 19:50:13 debugLogger [INFO] ExplicitWait Element Present: Registration_Account_Creation_Confirmation
+2020-03-31 19:50:15 debugLogger [INFO] verification element: Your account has been created
+2020-03-31 19:50:15 debugLogger [INFO] Actual element is: Your account has been created
+2020-03-31 19:50:15 debugLogger [INFO] Element is found and same as the desired text: Your account has been created
+2020-03-31 19:50:15 debugLogger [INFO] ExplicitWait Element Present: Registration_shopping_button
+2020-03-31 19:50:17 debugLogger [INFO] Element is found and clicked: Registration_shopping_button
+2020-03-31 19:50:18 debugLogger [INFO] Element Link_Flybuys_Button is present.
+2020-03-31 19:50:20 debugLogger [INFO] Element is found and clicked: Fly_buy_skip
+2020-03-31 19:50:23 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 19:50:23 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 19:50:25 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 19:50:29 debugLogger [INFO] Loading Device...
+2020-03-31 19:50:29 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:50:29 debugLogger [INFO] TCID match found
+2020-03-31 19:50:29 debugLogger [INFO] Username for test is 
+2020-03-31 19:50:29 debugLogger [INFO] password for test  is  
+2020-03-31 19:50:29 debugLogger [INFO] Firstname for test is Test
+2020-03-31 19:50:29 debugLogger [INFO] lastname for test  is  user
+2020-03-31 19:50:29 debugLogger [INFO] password for test  is  
+2020-03-31 19:50:29 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:50:29 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:50:39 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:50:39 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:50:39 debugLogger [INFO] Reached here Login before
+2020-03-31 19:50:39 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:50:50 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:50:50 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:50:52 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:50:52 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:50:52 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:50:56 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 19:50:56 debugLogger [INFO] ExplicitWait Element Present: New_to_coles_online_link
+2020-03-31 19:50:58 debugLogger [INFO] Element is found and clicked: New_to_coles_online_link
+2020-03-31 19:50:58 debugLogger [INFO] ExplicitWait Element Present: Registration_First_Name_Text
+2020-03-31 19:51:00 debugLogger [INFO] Text cleared for Registration_First_Name_Text
+2020-03-31 19:51:03 debugLogger [INFO] Data entered for text box: Registration_First_Name_Text
+2020-03-31 19:51:05 debugLogger [INFO] Text cleared for Registration_Last_Name_Text
+2020-03-31 19:51:09 debugLogger [INFO] Data entered for text box: Registration_Last_Name_Text
+2020-03-31 19:51:09 debugLogger [INFO] Email ID is: automation31032020195109@mailinator.com
+2020-03-31 19:51:11 debugLogger [INFO] Text cleared for Registration_Emailid_Text
+2020-03-31 19:51:14 debugLogger [INFO] Data entered for text box: Registration_Emailid_Text
+2020-03-31 19:51:17 debugLogger [INFO] Data entered for text box: password
+2020-03-31 19:51:20 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button
+2020-03-31 19:51:20 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:51:22 debugLogger [INFO] verification element: Please ensure the password is at least 8 characters long
+2020-03-31 19:51:22 debugLogger [INFO] Actual element is: Please ensure the password is at least 8 characters long
+2020-03-31 19:51:22 debugLogger [INFO] Element is found and same as the desired text: Please ensure the password is at least 8 characters long
+2020-03-31 19:51:24 debugLogger [INFO] Text cleared for Registration_Password_Text
+2020-03-31 19:51:27 debugLogger [INFO] Data entered for text box: password
+2020-03-31 19:51:29 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button
+2020-03-31 19:51:29 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:51:31 debugLogger [INFO] verification element: Please ensure the password contains at least one number
+2020-03-31 19:51:31 debugLogger [INFO] Actual element is: Please ensure the password contains at least one number
+2020-03-31 19:51:31 debugLogger [INFO] Element is found and same as the desired text: Please ensure the password contains at least one number
+2020-03-31 19:51:33 debugLogger [INFO] Text cleared for Registration_Password_Text
+2020-03-31 19:51:37 debugLogger [INFO] Data entered for text box: password
+2020-03-31 19:51:39 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button
+2020-03-31 19:51:39 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:51:40 debugLogger [INFO] Element Street_Address_Input is present.
+2020-03-31 19:51:41 debugLogger [INFO] Loading Device...
+2020-03-31 19:51:41 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:51:41 debugLogger [INFO] TCID match found
+2020-03-31 19:51:41 debugLogger [INFO] Username for test is 
+2020-03-31 19:51:41 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:51:41 debugLogger [INFO] Firstname for test is Test
+2020-03-31 19:51:41 debugLogger [INFO] lastname for test  is  user
+2020-03-31 19:51:41 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:51:41 debugLogger [INFO] Nickname for test  is  HD!@#
+2020-03-31 19:51:41 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:51:53 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:51:53 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:51:53 debugLogger [INFO] Reached here Login before
+2020-03-31 19:51:53 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:52:04 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:52:04 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:52:06 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:52:06 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:52:06 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:52:08 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 19:52:08 debugLogger [INFO] ExplicitWait Element Present: New_to_coles_online_link
+2020-03-31 19:52:11 debugLogger [INFO] Element is found and clicked: New_to_coles_online_link
+2020-03-31 19:52:11 debugLogger [INFO] ExplicitWait Element Present: Registration_First_Name_Text
+2020-03-31 19:52:13 debugLogger [INFO] Text cleared for Registration_First_Name_Text
+2020-03-31 19:52:16 debugLogger [INFO] Data entered for text box: Registration_First_Name_Text
+2020-03-31 19:52:18 debugLogger [INFO] Text cleared for Registration_Last_Name_Text
+2020-03-31 19:52:21 debugLogger [INFO] Data entered for text box: Registration_Last_Name_Text
+2020-03-31 19:52:21 debugLogger [INFO] Email ID is: automation31032020195221@mailinator.com
+2020-03-31 19:52:23 debugLogger [INFO] Text cleared for Registration_Emailid_Text
+2020-03-31 19:52:27 debugLogger [INFO] Data entered for text box: Registration_Emailid_Text
+2020-03-31 19:52:29 debugLogger [INFO] Text cleared for Registration_Password_Text
+2020-03-31 19:52:32 debugLogger [INFO] Data entered for text box: password
+2020-03-31 19:52:34 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button
+2020-03-31 19:52:34 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:52:34 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:52:36 debugLogger [INFO] Text cleared for Street_Address_Input
+2020-03-31 19:52:40 debugLogger [INFO] Data entered for text box: Street_Address_Input
+2020-03-31 19:52:42 debugLogger [INFO] Text cleared for Suburb_Input
+2020-03-31 19:52:45 debugLogger [INFO] Data entered for text box: Suburb_Input
+2020-03-31 19:52:47 debugLogger [INFO] Text cleared for Postcode_Input
+2020-03-31 19:52:50 debugLogger [INFO] Data entered for text box: Postcode_Input
+2020-03-31 19:52:53 debugLogger [INFO] Data entered for text box: Registration_Address_Nickname_Text
+2020-03-31 19:52:55 debugLogger [INFO] Text cleared for Registration_Mobile_Number_Field
+2020-03-31 19:52:58 debugLogger [INFO] Data entered for text box: Registration_Mobile_Number_Field
+2020-03-31 19:53:01 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button_page2
+2020-03-31 19:53:03 debugLogger [INFO] verification element: Please remove these characters from street address "!", "$"
+2020-03-31 19:53:03 debugLogger [INFO] Actual element is: Please remove these characters from street address "!", "$"
+2020-03-31 19:53:03 debugLogger [INFO] Element is found and same as the desired text: Please remove these characters from street address "!", "$"
+2020-03-31 19:53:05 debugLogger [INFO] verification element: Please remove these characters from suburb "!", "%"
+2020-03-31 19:53:05 debugLogger [INFO] Actual element is: Please remove these characters from suburb "!", "%"
+2020-03-31 19:53:05 debugLogger [INFO] Element is found and same as the desired text: Please remove these characters from suburb "!", "%"
+2020-03-31 19:53:07 debugLogger [INFO] verification element: Post code must not contain alphabets and special characters
+2020-03-31 19:53:07 debugLogger [INFO] Actual element is: Post code must not contain alphabets and special characters
+2020-03-31 19:53:07 debugLogger [INFO] Element is found and same as the desired text: Post code must not contain alphabets and special characters
+2020-03-31 19:53:09 debugLogger [INFO] verification element: Please remove these characters from the name for this address "!", "@", "#"
+2020-03-31 19:53:09 debugLogger [INFO] Actual element is: Please remove these characters from the name for this address "!", "@", "#"
+2020-03-31 19:53:09 debugLogger [INFO] Element is found and same as the desired text: Please remove these characters from the name for this address "!", "@", "#"
+2020-03-31 19:53:11 debugLogger [INFO] verification element: Please enter a mobile number beginning with "04"
+2020-03-31 19:53:11 debugLogger [INFO] Actual element is: Please enter a mobile number beginning with "04"
+2020-03-31 19:53:11 debugLogger [INFO] Element is found and same as the desired text: Please enter a mobile number beginning with "04"
+2020-03-31 19:53:12 debugLogger [INFO] Loading Device...
+2020-03-31 19:53:12 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:53:12 debugLogger [INFO] TCID match found
+2020-03-31 19:53:12 debugLogger [INFO] Username for test is 
+2020-03-31 19:53:12 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:53:12 debugLogger [INFO] Firstname for test is Test
+2020-03-31 19:53:12 debugLogger [INFO] lastname for test  is  user
+2020-03-31 19:53:12 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:53:12 debugLogger [INFO] Nickname for test  is  InvalidHD
+2020-03-31 19:53:12 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:53:23 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:53:23 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:53:23 debugLogger [INFO] Reached here Login before
+2020-03-31 19:53:23 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:53:34 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:53:34 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:53:36 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:53:36 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:53:36 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:53:40 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 19:53:40 debugLogger [INFO] ExplicitWait Element Present: New_to_coles_online_link
+2020-03-31 19:53:42 debugLogger [INFO] Element is found and clicked: New_to_coles_online_link
+2020-03-31 19:53:42 debugLogger [INFO] ExplicitWait Element Present: Registration_First_Name_Text
+2020-03-31 19:53:44 debugLogger [INFO] Text cleared for Registration_First_Name_Text
+2020-03-31 19:53:47 debugLogger [INFO] Data entered for text box: Registration_First_Name_Text
+2020-03-31 19:53:50 debugLogger [INFO] Text cleared for Registration_Last_Name_Text
+2020-03-31 19:53:53 debugLogger [INFO] Data entered for text box: Registration_Last_Name_Text
+2020-03-31 19:53:53 debugLogger [INFO] Email ID is: automation31032020195353@mailinator.com
+2020-03-31 19:53:55 debugLogger [INFO] Text cleared for Registration_Emailid_Text
+2020-03-31 19:53:58 debugLogger [INFO] Data entered for text box: Registration_Emailid_Text
+2020-03-31 19:54:00 debugLogger [INFO] Text cleared for Registration_Password_Text
+2020-03-31 19:54:03 debugLogger [INFO] Data entered for text box: password
+2020-03-31 19:54:06 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button
+2020-03-31 19:54:06 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:54:06 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:54:08 debugLogger [INFO] Text cleared for Street_Address_Input
+2020-03-31 19:54:11 debugLogger [INFO] Data entered for text box: Street_Address_Input
+2020-03-31 19:54:13 debugLogger [INFO] Text cleared for Suburb_Input
+2020-03-31 19:54:16 debugLogger [INFO] Data entered for text box: Suburb_Input
+2020-03-31 19:54:18 debugLogger [INFO] Text cleared for Postcode_Input
+2020-03-31 19:54:21 debugLogger [INFO] Data entered for text box: Postcode_Input
+2020-03-31 19:54:24 debugLogger [INFO] Text cleared for Registration_Address_Nickname_Text
+2020-03-31 19:54:27 debugLogger [INFO] Data entered for text box: Registration_Address_Nickname_Text
+2020-03-31 19:54:29 debugLogger [INFO] Text cleared for Registration_Mobile_Number_Field
+2020-03-31 19:54:32 debugLogger [INFO] Data entered for text box: Registration_Mobile_Number_Field
+2020-03-31 19:54:34 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button_page2
+2020-03-31 19:54:35 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:54:37 debugLogger [INFO] verification element: Please verify your address...
+2020-03-31 19:54:37 debugLogger [INFO] Actual element is: Please verify your address...
+2020-03-31 19:54:37 debugLogger [INFO] Element is found and same as the desired text: Please verify your address...
+2020-03-31 19:54:39 debugLogger [INFO] count of objects for Registration_Valid_Address_List is :1
+2020-03-31 19:54:39 debugLogger [INFO] Total No. of  Valid address present in the list are:1
+2020-03-31 19:54:39 debugLogger [INFO] Element found: add_1
+2020-03-31 19:54:39 debugLogger [INFO] Valid Addresses 1 : No address found.
+2020-03-31 19:54:41 debugLogger [INFO] verification element: Please verify your address...
+2020-03-31 19:54:41 debugLogger [INFO] Actual element is: Please verify your address...
+2020-03-31 19:54:41 debugLogger [INFO] Element is found and same as the desired text: Please verify your address...
+2020-03-31 19:54:43 debugLogger [INFO] verification element: No address found.
+2020-03-31 19:54:43 debugLogger [INFO] Actual element is: No address found.
+2020-03-31 19:54:43 debugLogger [INFO] Element is found and same as the desired text: No address found.
+2020-03-31 19:54:45 debugLogger [INFO] Loading Device...
+2020-03-31 19:54:45 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:54:45 debugLogger [INFO] TCID match found
+2020-03-31 19:54:45 debugLogger [INFO] Username for test is 
+2020-03-31 19:54:45 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:54:45 debugLogger [INFO] Firstname for test is Test
+2020-03-31 19:54:45 debugLogger [INFO] lastname for test  is  user
+2020-03-31 19:54:45 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 19:54:45 debugLogger [INFO] Nickname for test  is  HD
+2020-03-31 19:54:45 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:54:56 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:54:56 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:54:56 debugLogger [INFO] Reached here Login before
+2020-03-31 19:54:56 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:55:07 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:55:07 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:55:09 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:55:09 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:55:09 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:55:12 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 19:55:12 debugLogger [INFO] ExplicitWait Element Present: New_to_coles_online_link
+2020-03-31 19:55:15 debugLogger [INFO] Element is found and clicked: New_to_coles_online_link
+2020-03-31 19:55:15 debugLogger [INFO] ExplicitWait Element Present: Registration_First_Name_Text
+2020-03-31 19:55:17 debugLogger [INFO] Text cleared for Registration_First_Name_Text
+2020-03-31 19:55:20 debugLogger [INFO] Data entered for text box: Registration_First_Name_Text
+2020-03-31 19:55:22 debugLogger [INFO] Text cleared for Registration_Last_Name_Text
+2020-03-31 19:55:25 debugLogger [INFO] Data entered for text box: Registration_Last_Name_Text
+2020-03-31 19:55:25 debugLogger [INFO] Email ID is: automation31032020195525@mailinator.com
+2020-03-31 19:55:27 debugLogger [INFO] Text cleared for Registration_Emailid_Text
+2020-03-31 19:55:31 debugLogger [INFO] Data entered for text box: Registration_Emailid_Text
+2020-03-31 19:55:33 debugLogger [INFO] Text cleared for Registration_Password_Text
+2020-03-31 19:55:36 debugLogger [INFO] Data entered for text box: password
+2020-03-31 19:55:38 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button
+2020-03-31 19:55:38 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:55:38 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:55:40 debugLogger [INFO] Text cleared for Street_Address_Input
+2020-03-31 19:55:44 debugLogger [INFO] Data entered for text box: Street_Address_Input
+2020-03-31 19:55:46 debugLogger [INFO] Text cleared for Suburb_Input
+2020-03-31 19:55:49 debugLogger [INFO] Data entered for text box: Suburb_Input
+2020-03-31 19:55:51 debugLogger [INFO] Text cleared for Postcode_Input
+2020-03-31 19:55:54 debugLogger [INFO] Data entered for text box: Postcode_Input
+2020-03-31 19:55:56 debugLogger [INFO] Text cleared for Registration_Address_Nickname_Text
+2020-03-31 19:55:59 debugLogger [INFO] Data entered for text box: Registration_Address_Nickname_Text
+2020-03-31 19:56:01 debugLogger [INFO] Text cleared for Registration_Mobile_Number_Field
+2020-03-31 19:56:05 debugLogger [INFO] Data entered for text box: Registration_Mobile_Number_Field
+2020-03-31 19:56:07 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button_page2
+2020-03-31 19:56:08 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:56:10 debugLogger [INFO] verification element: Please verify your address...
+2020-03-31 19:56:10 debugLogger [INFO] Actual element is: Please verify your address...
+2020-03-31 19:56:10 debugLogger [INFO] Element is found and same as the desired text: Please verify your address...
+2020-03-31 19:56:12 debugLogger [INFO] count of objects for Registration_Valid_Address_List is :3
+2020-03-31 19:56:12 debugLogger [INFO] Total No. of  Valid address present in the list are:3
+2020-03-31 19:56:12 debugLogger [INFO] Element found: add_1
+2020-03-31 19:56:12 debugLogger [INFO] Valid Addresses 1 : 10 Bayview Boulevard, Bayview NT, 0820
+2020-03-31 19:56:12 debugLogger [INFO] Element found: add_1
+2020-03-31 19:56:12 debugLogger [INFO] Valid Addresses 2 : Unit 10 58 Bayview Boulevard, Bayview NT, 0820
+2020-03-31 19:56:12 debugLogger [INFO] Element found: add_1
+2020-03-31 19:56:12 debugLogger [INFO] Valid Addresses 3 : Unit 10 59 Bayview Boulevard, Bayview NT, 0820
+2020-03-31 19:56:15 debugLogger [INFO] Element is found and clicked: Registration_Enter_Different_Add
+2020-03-31 19:56:15 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:56:17 debugLogger [INFO] Text cleared for Street_Address_Input
+2020-03-31 19:56:20 debugLogger [INFO] Data entered for text box: Street_Address_Input
+2020-03-31 19:56:22 debugLogger [INFO] Text cleared for Suburb_Input
+2020-03-31 19:56:25 debugLogger [INFO] Data entered for text box: Suburb_Input
+2020-03-31 19:56:27 debugLogger [INFO] Text cleared for Postcode_Input
+2020-03-31 19:56:30 debugLogger [INFO] Data entered for text box: Postcode_Input
+2020-03-31 19:56:33 debugLogger [INFO] Text cleared for Registration_Address_Nickname_Text
+2020-03-31 19:56:36 debugLogger [INFO] Data entered for text box: Registration_Address_Nickname_Text
+2020-03-31 19:56:38 debugLogger [INFO] Text cleared for Registration_Mobile_Number_Field
+2020-03-31 19:56:41 debugLogger [INFO] Data entered for text box: Registration_Mobile_Number_Field
+2020-03-31 19:56:43 debugLogger [INFO] Element is found and clicked: Registration_Continue_Button_page2
+2020-03-31 19:56:44 debugLogger [INFO] ExplicitWait Element Present: Registration_Address_Header
+2020-03-31 19:56:46 debugLogger [INFO] verification element: Please verify your address...
+2020-03-31 19:56:46 debugLogger [INFO] Actual element is: Please verify your address...
+2020-03-31 19:56:46 debugLogger [INFO] Element is found and same as the desired text: Please verify your address...
+2020-03-31 19:56:48 debugLogger [INFO] count of objects for Registration_Valid_Address_List is :2
+2020-03-31 19:56:48 debugLogger [INFO] Total No. of  Valid address present in the list are:2
+2020-03-31 19:56:48 debugLogger [INFO] Element found: add_1
+2020-03-31 19:56:48 debugLogger [INFO] Valid Addresses 1 : 15 Bayview Boulevard, Bayview NT, 0820
+2020-03-31 19:56:48 debugLogger [INFO] Element found: add_1
+2020-03-31 19:56:48 debugLogger [INFO] Valid Addresses 2 : Unit 15 58 Bayview Boulevard, Bayview NT, 0820
+2020-03-31 19:56:51 debugLogger [INFO] Element is found and clicked: Registration_Enter_Different_Add
+2020-03-31 19:56:52 debugLogger [INFO] Loading Device...
+2020-03-31 19:56:52 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:56:53 debugLogger [INFO] TCID match found
+2020-03-31 19:56:53 debugLogger [INFO] Username for test is dummytest001@mailinator.com
+2020-03-31 19:56:53 debugLogger [INFO] password for test  is  dummytest001
+2020-03-31 19:56:53 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:56:53 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:56:53 debugLogger [INFO] password for test  is  dummytest001
+2020-03-31 19:56:53 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:56:53 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:57:03 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:57:03 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:57:03 debugLogger [INFO] Reached here Login before
+2020-03-31 19:57:03 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:57:13 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:57:13 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:57:16 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:57:16 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:57:16 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:57:19 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 19:57:19 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 19:57:21 debugLogger [INFO] Element is found and clicked: Login_Forgot_Password_Link
+2020-03-31 19:57:26 debugLogger [INFO] ExplicitWait Element Present: Forget_Email_Link
+2020-03-31 19:57:29 debugLogger [INFO] Element is found and clicked: Forget_Email_Link
+2020-03-31 19:57:29 debugLogger [INFO] ExplicitWait Element Present: Customer_Support_Contact_Details
+2020-03-31 19:57:29 debugLogger [INFO] String :Contact customer support
+Call 1800 455 400 - contains :Contact customer support
+2020-03-31 19:57:29 debugLogger [INFO] ExplicitWait Element Present: Customer_Support_Contact_Details
+2020-03-31 19:57:29 debugLogger [INFO] String :Contact customer support
+Call 1800 455 400 - contains :Call 1800 455 400
+2020-03-31 19:57:29 debugLogger [INFO] ExplicitWait Element Present: Back_To_Forget_Password_Link
+2020-03-31 19:57:31 debugLogger [INFO] Element is found and clicked: Back_To_Forget_Password_Link
+2020-03-31 19:57:31 debugLogger [INFO] ExplicitWait Element Present: Forgot_Password_Email
+2020-03-31 19:57:33 debugLogger [INFO] Text cleared for Forgot_Password_Email
+2020-03-31 19:57:37 debugLogger [INFO] Data entered for text box: Forgot_Password_Email
+2020-03-31 19:57:39 debugLogger [INFO] Element is found and clicked: Reset_My_Password_Btn
+2020-03-31 19:57:59 debugLogger [INFO] ExplicitWait Element Present: Reset_Password_Confirmation_Popup
+2020-03-31 19:58:01 debugLogger [INFO] verification element: Your password has been reset!
+2020-03-31 19:58:01 debugLogger [INFO] Actual element is: Your password has been reset!
+2020-03-31 19:58:01 debugLogger [INFO] Element is found and same as the desired text: Your password has been reset!
+2020-03-31 19:58:01 debugLogger [INFO] String :We've sent an email to choose a new one to dummytest001@mailinator.com - contains :We've sent an email to choose a new one to
+2020-03-31 19:58:01 debugLogger [INFO] ExplicitWait Element Present: Popup_Ok_Btn
+2020-03-31 19:58:03 debugLogger [INFO] Element is found and clicked: Popup_Ok_Btn
+2020-03-31 19:58:05 debugLogger [INFO] Loading Device...
+2020-03-31 19:58:05 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:58:05 debugLogger [INFO] TCID match found
+2020-03-31 19:58:05 debugLogger [INFO] Username for test is sanitytest1_vicmetro@mailinator.com
+2020-03-31 19:58:05 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 19:58:05 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:58:05 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:58:05 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 19:58:05 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:58:05 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:58:16 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:58:16 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:58:16 debugLogger [INFO] Reached here Login before
+2020-03-31 19:58:16 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:58:27 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:58:27 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:58:29 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:58:29 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:58:29 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 19:58:32 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 19:58:32 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 19:58:34 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 19:58:37 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 19:58:37 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 19:58:39 debugLogger [INFO] verification element: Log in
+2020-03-31 19:58:39 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:58:39 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:58:41 debugLogger [INFO] Text cleared for Password
+2020-03-31 19:58:45 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 19:58:47 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 19:58:48 debugLogger [INFO] ExplicitWait Element Present: Log_In_Again_Button
+2020-03-31 19:58:50 debugLogger [INFO] verification element: There was a problem logging you in
+2020-03-31 19:58:50 debugLogger [INFO] Actual element is: There was a problem logging you in
+2020-03-31 19:58:50 debugLogger [INFO] Element is found and same as the desired text: There was a problem logging you in
+2020-03-31 19:58:50 debugLogger [INFO] ExplicitWait Element Present: Login_Try_Again_Btn
+2020-03-31 19:58:52 debugLogger [INFO] Element is found and clicked: Login_Try_Again_Btn
+2020-03-31 19:58:52 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 19:58:54 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 19:58:58 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 19:58:58 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 19:59:00 debugLogger [INFO] verification element: Log in
+2020-03-31 19:59:00 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:59:00 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:59:02 debugLogger [INFO] Text cleared for Password
+2020-03-31 19:59:05 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 19:59:07 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 19:59:11 debugLogger [INFO] ExplicitWait Element Present: Log_In_Again_Button
+2020-03-31 19:59:13 debugLogger [INFO] verification element: There was a problem logging you in
+2020-03-31 19:59:13 debugLogger [INFO] Actual element is: There was a problem logging you in
+2020-03-31 19:59:13 debugLogger [INFO] Element is found and same as the desired text: There was a problem logging you in
+2020-03-31 19:59:13 debugLogger [INFO] ExplicitWait Element Present: Login_Try_Again_Btn
+2020-03-31 19:59:15 debugLogger [INFO] Element is found and clicked: Login_Try_Again_Btn
+2020-03-31 19:59:15 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 19:59:17 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 19:59:20 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 19:59:20 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 19:59:22 debugLogger [INFO] verification element: Log in
+2020-03-31 19:59:22 debugLogger [INFO] Actual element is: Log in
+2020-03-31 19:59:22 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 19:59:24 debugLogger [INFO] Text cleared for Password
+2020-03-31 19:59:27 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 19:59:30 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 19:59:31 debugLogger [INFO] ExplicitWait Element Present: Log_In_Again_Button
+2020-03-31 19:59:33 debugLogger [INFO] verification element: There was a problem logging you in
+2020-03-31 19:59:33 debugLogger [INFO] Actual element is: There was a problem logging you in
+2020-03-31 19:59:33 debugLogger [INFO] Element is found and same as the desired text: There was a problem logging you in
+2020-03-31 19:59:34 debugLogger [INFO] Loading Device...
+2020-03-31 19:59:35 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 19:59:35 debugLogger [INFO] TCID match found
+2020-03-31 19:59:35 debugLogger [INFO] Username for test is sanitytest1_vicmetro@mailinator.com
+2020-03-31 19:59:35 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 19:59:35 debugLogger [INFO] Firstname for test is 
+2020-03-31 19:59:35 debugLogger [INFO] lastname for test  is  
+2020-03-31 19:59:35 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 19:59:35 debugLogger [INFO] Nickname for test  is  
+2020-03-31 19:59:35 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 19:59:45 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 19:59:45 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 19:59:45 debugLogger [INFO] Reached here Login before
+2020-03-31 19:59:45 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 19:59:56 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 19:59:56 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 19:59:58 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 19:59:58 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 19:59:58 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 20:00:01 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 20:00:01 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 20:00:03 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 20:00:06 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 20:00:06 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 20:00:08 debugLogger [INFO] verification element: Log in
+2020-03-31 20:00:08 debugLogger [INFO] Actual element is: Log in
+2020-03-31 20:00:08 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 20:00:10 debugLogger [INFO] Text cleared for Password
+2020-03-31 20:00:14 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 20:00:16 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 20:00:25 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 20:00:28 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 20:00:28 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 20:00:28 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 20:00:28 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 20:00:30 debugLogger [INFO] verification element: You have been logged in as Register one
+2020-03-31 20:00:30 debugLogger [INFO] Actual element is: You have been logged in as Register one
+2020-03-31 20:00:30 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Register one
+2020-03-31 20:00:32 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 20:00:35 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 20:00:35 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 20:00:37 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 20:00:41 debugLogger [INFO] Loading Device...
+2020-03-31 20:00:41 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 20:00:41 debugLogger [INFO] TCID match found
+2020-03-31 20:00:41 debugLogger [INFO] Username for test is loggedinuser@mailinator.com
+2020-03-31 20:00:41 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 20:00:41 debugLogger [INFO] Firstname for test is 
+2020-03-31 20:00:41 debugLogger [INFO] lastname for test  is  
+2020-03-31 20:00:41 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 20:00:41 debugLogger [INFO] Nickname for test  is  
+2020-03-31 20:00:41 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 20:00:52 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 20:00:52 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 20:00:52 debugLogger [INFO] Reached here Login before
+2020-03-31 20:00:52 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 20:01:02 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 20:01:02 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 20:01:04 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 20:01:04 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 20:01:04 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 20:01:08 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 20:01:08 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 20:01:10 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 20:01:13 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 20:01:13 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 20:01:15 debugLogger [INFO] verification element: Log in
+2020-03-31 20:01:15 debugLogger [INFO] Actual element is: Log in
+2020-03-31 20:01:15 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 20:01:17 debugLogger [INFO] Text cleared for Password
+2020-03-31 20:01:20 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 20:01:23 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 20:01:31 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 20:01:33 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 20:01:33 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 20:01:33 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 20:01:33 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 20:01:35 debugLogger [INFO] verification element: You have been logged in as Test User
+2020-03-31 20:01:35 debugLogger [INFO] Actual element is: You have been logged in as Test User
+2020-03-31 20:01:35 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Test User
+2020-03-31 20:01:37 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 20:01:40 debugLogger [INFO] Element is found and clicked: Trolley_Text
+2020-03-31 20:01:40 debugLogger [INFO] Element Trolley_RemoveAll is present.
+2020-03-31 20:01:42 debugLogger [INFO] Element is found and clicked: Trolley_RemoveAll
+2020-03-31 20:01:45 debugLogger [INFO] Element is found and clicked: Trolley_Yes_Remove_Everything
+2020-03-31 20:01:45 debugLogger [INFO] Element Trolley_Is_Empty_Test is present.
+2020-03-31 20:01:47 debugLogger [INFO] Element is found and clicked: Close_Superbar
+2020-03-31 20:01:50 debugLogger [INFO] Element is found and clicked: MultiSearchLink
+2020-03-31 20:01:54 debugLogger [INFO] verification element: Search for a list of items
+2020-03-31 20:01:54 debugLogger [INFO] Actual element is: Search for a list of items
+2020-03-31 20:01:54 debugLogger [INFO] Element is found and same as the desired text: Search for a list of items
+2020-03-31 20:01:56 debugLogger [INFO] verification element: Type or paste your list below putting each item on a new line.
+2020-03-31 20:01:56 debugLogger [INFO] Actual element is: Type or paste your list below putting each item on a new line.
+2020-03-31 20:01:56 debugLogger [INFO] Element is found and same as the desired text: Type or paste your list below putting each item on a new line.
+2020-03-31 20:01:58 debugLogger [INFO] verification element: Start typing or paste your list here
+2020-03-31 20:01:58 debugLogger [INFO] Actual element is: Start typing or paste your list here
+2020-03-31 20:01:58 debugLogger [INFO] Element is found and same as the desired text: Start typing or paste your list here
+2020-03-31 20:02:01 debugLogger [INFO] Data entered for text box: MultiSearchManage_Overlay_withoutItem_EditBox
+2020-03-31 20:02:03 debugLogger [INFO] Element is found and clicked: MultiSearchManage_Overlay_withoutItem_Save&Search_Button
+2020-03-31 20:02:03 debugLogger [INFO] first element of search term ismilk
+2020-03-31 20:02:03 debugLogger [INFO] ExplicitWait Element Present: Results_For
+2020-03-31 20:02:06 debugLogger [INFO] ExplicitWait Element Present: Everything_Sortedby_ChangeLink
+2020-03-31 20:02:06 debugLogger [INFO] Element found: Results_For
+2020-03-31 20:02:06 debugLogger [INFO] result is Results for 'milk'
+2020-03-31 20:02:10 debugLogger [INFO] Scrolled to Home_Back_To_Top_Arrow
+2020-03-31 20:02:13 debugLogger [INFO] ExplicitWait Element Present: Home_Back_To_Top_Arrow
+2020-03-31 20:02:15 debugLogger [INFO] Element is found and clicked: First_Product_FatController
+2020-03-31 20:02:15 debugLogger [INFO] Element found: Search_Tile1
+2020-03-31 20:02:15 debugLogger [INFO] Full Cream Long Life Milk
+2020-03-31 20:02:18 debugLogger [INFO] Element is found and clicked: Trolley and checkout
+2020-03-31 20:02:19 debugLogger [INFO] ExplicitWait Element Present: Trolly_First_Item
+2020-03-31 20:02:19 debugLogger [INFO] Element found: Trolly_First_Item
+2020-03-31 20:02:19 debugLogger [INFO] Full Cream Long Life Milk 1L
+2020-03-31 20:02:19 debugLogger [INFO] Multisearch added item is same as in Trolley
+2020-03-31 20:02:21 debugLogger [INFO] Element is found and clicked: Close_Superbar
+2020-03-31 20:02:22 debugLogger [INFO] Element MultiSearch_Success_Icon is present.
+2020-03-31 20:02:22 debugLogger [INFO] The multisearch product is showing in green color, having HEX Code: #008a23
+2020-03-31 20:02:25 debugLogger [INFO] Element is found and clicked: MulitSearchManage_Overlay_secondItem
+2020-03-31 20:02:25 debugLogger [INFO] ExplicitWait Element Present: Results_For
+2020-03-31 20:02:26 debugLogger [INFO] ExplicitWait Element Present: Everything_Sortedby_ChangeLink
+2020-03-31 20:02:27 debugLogger [INFO] Element found: Results_For
+2020-03-31 20:02:27 debugLogger [INFO] result is Results for 'tea'
+2020-03-31 20:02:30 debugLogger [INFO] Scrolled to Home_Back_To_Top_Arrow
+2020-03-31 20:02:33 debugLogger [INFO] ExplicitWait Element Present: Home_Back_To_Top_Arrow
+2020-03-31 20:02:35 debugLogger [INFO] Element is found and clicked: First_Product_FatController
+2020-03-31 20:02:35 debugLogger [INFO] Element found: Search_Tile1
+2020-03-31 20:02:35 debugLogger [INFO] Decaffeinatted Black Tea Bags
+2020-03-31 20:02:38 debugLogger [INFO] Element is found and clicked: Trolley and checkout
+2020-03-31 20:02:39 debugLogger [INFO] ExplicitWait Element Present: Trolly_First_Item
+2020-03-31 20:02:39 debugLogger [INFO] Element found: Trolly_First_Item
+2020-03-31 20:02:39 debugLogger [INFO] Decaffeinatted Black Tea Bags 50 pack
+2020-03-31 20:02:39 debugLogger [INFO] Multisearch added item is same as in Trolley
+2020-03-31 20:02:41 debugLogger [INFO] Element is found and clicked: Close_Superbar
+2020-03-31 20:02:42 debugLogger [INFO] Element MultiSearch_Success_Icon is present.
+2020-03-31 20:02:42 debugLogger [INFO] The multisearch product is showing in green color, having HEX Code: #008a23
+2020-03-31 20:02:44 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 20:02:44 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 20:02:47 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 20:02:50 debugLogger [INFO] Loading Device...
+2020-03-31 20:02:50 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 20:02:50 debugLogger [INFO] TCID match found
+2020-03-31 20:02:50 debugLogger [INFO] Username for test is sanitytest1_vicmetro@mailinator.com
+2020-03-31 20:02:50 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 20:02:50 debugLogger [INFO] Firstname for test is 
+2020-03-31 20:02:50 debugLogger [INFO] lastname for test  is  
+2020-03-31 20:02:50 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 20:02:50 debugLogger [INFO] Nickname for test  is  
+2020-03-31 20:02:50 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 20:03:02 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 20:03:02 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 20:03:02 debugLogger [INFO] Reached here Login before
+2020-03-31 20:03:02 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 20:03:12 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 20:03:12 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 20:03:14 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 20:03:14 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 20:03:14 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 20:03:17 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 20:03:17 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 20:03:19 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 20:03:22 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 20:03:22 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 20:03:24 debugLogger [INFO] verification element: Log in
+2020-03-31 20:03:24 debugLogger [INFO] Actual element is: Log in
+2020-03-31 20:03:24 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 20:03:26 debugLogger [INFO] Text cleared for Password
+2020-03-31 20:03:30 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 20:03:32 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 20:03:41 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 20:03:43 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 20:03:43 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 20:03:43 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 20:03:43 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 20:03:45 debugLogger [INFO] verification element: You have been logged in as Register one
+2020-03-31 20:03:45 debugLogger [INFO] Actual element is: You have been logged in as Register one
+2020-03-31 20:03:45 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Register one
+2020-03-31 20:03:47 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 20:03:47 debugLogger [INFO] Element Bought-before is present.
+2020-03-31 20:03:50 debugLogger [INFO] Element is found and clicked: Bought-before
+2020-03-31 20:04:07 debugLogger [INFO] count of objects for Bought_Before_Products is :0
+2020-03-31 20:04:07 debugLogger [INFO] Total count of searched product present in Everything is :0
+2020-03-31 20:04:10 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 20:04:10 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 20:04:12 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 20:04:16 debugLogger [INFO] Loading Device...
+2020-03-31 20:04:16 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 20:04:16 debugLogger [INFO] TCID match found
+2020-03-31 20:04:16 debugLogger [INFO] Username for test is sanitytest1_vicmetro@mailinator.com
+2020-03-31 20:04:16 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 20:04:16 debugLogger [INFO] Firstname for test is 
+2020-03-31 20:04:16 debugLogger [INFO] lastname for test  is  
+2020-03-31 20:04:16 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 20:04:16 debugLogger [INFO] Nickname for test  is  
+2020-03-31 20:04:16 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 20:04:26 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 20:04:26 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 20:04:26 debugLogger [INFO] Reached here Login before
+2020-03-31 20:04:26 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 20:04:37 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 20:04:37 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 20:04:39 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 20:04:39 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 20:04:39 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 20:04:42 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 20:04:42 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 20:04:44 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 20:04:47 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 20:04:47 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 20:04:49 debugLogger [INFO] verification element: Log in
+2020-03-31 20:04:49 debugLogger [INFO] Actual element is: Log in
+2020-03-31 20:04:49 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 20:04:51 debugLogger [INFO] Text cleared for Password
+2020-03-31 20:04:54 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 20:04:57 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 20:05:05 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 20:05:07 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 20:05:07 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 20:05:07 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 20:05:07 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 20:05:09 debugLogger [INFO] verification element: You have been logged in as Register one
+2020-03-31 20:05:09 debugLogger [INFO] Actual element is: You have been logged in as Register one
+2020-03-31 20:05:09 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Register one
+2020-03-31 20:05:12 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 20:05:14 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 20:05:15 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 20:05:18 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 20:05:21 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 20:05:25 debugLogger [INFO] Element is found and clicked: Everything_Sortedby_ChangeLink
+2020-03-31 20:05:27 debugLogger [INFO] Element is found and clicked: Everything_Brand
+2020-03-31 20:05:30 debugLogger [INFO] Element is found and clicked: Everything_Save_Button
+2020-03-31 20:05:31 debugLogger [INFO] ExplicitWait Element Present: ProductTile_xpath_Counter
+2020-03-31 20:05:33 debugLogger [INFO] count of objects for ProductTile_xpath_Counter is :48
+2020-03-31 20:05:33 debugLogger [INFO] The tile no.1 with brand name: Abbott's Village Bakery is less than or equal to the tile no.2 with brand name: Abbott's Village Bakery
+2020-03-31 20:05:33 debugLogger [INFO] The tile no.2 with brand name: Abbott's Village Bakery is less than or equal to the tile no.3 with brand name: Abbott's Village Bakery
+2020-03-31 20:05:33 debugLogger [INFO] The tile no.3 with brand name: Abbott's Village Bakery is less than or equal to the tile no.4 with brand name: Abe's Bagels
+2020-03-31 20:05:33 debugLogger [INFO] The tile no.4 with brand name: Abe's Bagels is less than or equal to the tile no.5 with brand name: Abe's Bagels
+2020-03-31 20:05:33 debugLogger [INFO] The tile no.5 with brand name: Abe's Bagels is less than or equal to the tile no.6 with brand name: Abe's Bagels
+2020-03-31 20:05:33 debugLogger [INFO] The tile no.6 with brand name: Abe's Bagels is less than or equal to the tile no.7 with brand name: Balfours
+2020-03-31 20:05:33 debugLogger [INFO] The tile no.7 with brand name: Balfours is less than or equal to the tile no.8 with brand name: Balfours
+2020-03-31 20:05:34 debugLogger [INFO] The tile no.8 with brand name: Balfours is less than or equal to the tile no.9 with brand name: Brioche
+2020-03-31 20:05:34 debugLogger [INFO] The tile no.9 with brand name: Brioche is less than or equal to the tile no.10 with brand name: Cadbury
+2020-03-31 20:05:34 debugLogger [INFO] The tile no.10 with brand name: Cadbury is less than or equal to the tile no.11 with brand name: Coles
+2020-03-31 20:05:34 debugLogger [INFO] The tile no.11 with brand name: Coles is less than or equal to the tile no.12 with brand name: Coles
+2020-03-31 20:05:36 debugLogger [INFO] Loading Device...
+2020-03-31 20:05:36 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 20:05:36 debugLogger [INFO] TCID match found
+2020-03-31 20:05:36 debugLogger [INFO] Username for test is sanitytest1_vicmetro@mailinator.com
+2020-03-31 20:05:36 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 20:05:36 debugLogger [INFO] Firstname for test is 
+2020-03-31 20:05:36 debugLogger [INFO] lastname for test  is  
+2020-03-31 20:05:36 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 20:05:36 debugLogger [INFO] Nickname for test  is  
+2020-03-31 20:05:36 debugLogger [INFO] TCID match found
+2020-03-31 20:05:36 debugLogger [INFO] Username for test is sanitytest1_vicmetro@mailinator.com
+2020-03-31 20:05:36 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 20:05:36 debugLogger [INFO] Firstname for test is 
+2020-03-31 20:05:36 debugLogger [INFO] lastname for test  is  
+2020-03-31 20:05:36 debugLogger [INFO] password for test  is  v4S#iCgH_J
+2020-03-31 20:05:36 debugLogger [INFO] Nickname for test  is  
+2020-03-31 20:05:36 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 20:05:52 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 20:05:52 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 20:05:52 debugLogger [INFO] Reached here Login before
+2020-03-31 20:05:52 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 20:06:03 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 20:06:03 debugLogger [INFO] ExplicitWait Element Present: SB_Login_Signup_Option
+2020-03-31 20:06:05 debugLogger [INFO] verification element: Log in / Signup
+2020-03-31 20:06:05 debugLogger [INFO] Actual element is: Log in / Signup
+2020-03-31 20:06:05 debugLogger [INFO] Element is found and same as the desired text: Log in / Signup
+2020-03-31 20:06:08 debugLogger [INFO] Element is found and clicked: SB_Login_Signup_Option
+2020-03-31 20:06:08 debugLogger [INFO] ExplicitWait Element Present: Email_ID
+2020-03-31 20:06:10 debugLogger [INFO] Text cleared for Email_ID
+2020-03-31 20:06:14 debugLogger [INFO] Data entered for text box: Email_ID
+2020-03-31 20:06:14 debugLogger [INFO] ExplicitWait Element Present: LoginForm_Header
+2020-03-31 20:06:16 debugLogger [INFO] verification element: Log in
+2020-03-31 20:06:16 debugLogger [INFO] Actual element is: Log in
+2020-03-31 20:06:16 debugLogger [INFO] Element is found and same as the desired text: Log in
+2020-03-31 20:06:18 debugLogger [INFO] Text cleared for Password
+2020-03-31 20:06:21 debugLogger [INFO] Data entered for text box: Password
+2020-03-31 20:06:23 debugLogger [INFO] Element is found and clicked: Login_Button
+2020-03-31 20:06:32 debugLogger [INFO] ExplicitWait Element Present: AfterLogin_Popup_Header
+2020-03-31 20:06:34 debugLogger [INFO] verification element: Welcome Back!
+2020-03-31 20:06:34 debugLogger [INFO] Actual element is: Welcome Back!
+2020-03-31 20:06:34 debugLogger [INFO] Element is found and same as the desired text: Welcome Back!
+2020-03-31 20:06:34 debugLogger [INFO] Element found: AfterLogin_UserName
+2020-03-31 20:06:36 debugLogger [INFO] verification element: You have been logged in as Register one
+2020-03-31 20:06:36 debugLogger [INFO] Actual element is: You have been logged in as Register one
+2020-03-31 20:06:36 debugLogger [INFO] Element is found and same as the desired text: You have been logged in as Register one
+2020-03-31 20:06:38 debugLogger [INFO] Element is found and clicked: AfterLogin_Popup_StartShopping_Button
+2020-03-31 20:06:41 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 20:06:41 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 20:06:44 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 20:06:47 debugLogger [INFO] Element is found and clicked: LHS_category
+2020-03-31 20:06:51 debugLogger [INFO] Element is found and clicked: show Filters
+2020-03-31 20:06:53 debugLogger [INFO] verification element: Filter products
+2020-03-31 20:06:53 debugLogger [INFO] Actual element is: Filter products
+2020-03-31 20:06:53 debugLogger [INFO] Element is found and same as the desired text: Filter products
+2020-03-31 20:06:55 debugLogger [INFO] verification element: Filter by Brand
+2020-03-31 20:06:55 debugLogger [INFO] Actual element is: Filter by Brand
+2020-03-31 20:06:55 debugLogger [INFO] Element is found and same as the desired text: Filter by Brand
+2020-03-31 20:06:58 debugLogger [INFO] Element is found and clicked: FilterBy_Brand
+2020-03-31 20:06:58 debugLogger [INFO] ExplicitWait Element Present: FilterPopup_Search_Input
+2020-03-31 20:07:01 debugLogger [INFO] Data entered for text box: FilterPopup_Search_Input
+2020-03-31 20:07:01 debugLogger [INFO] Element found: FilterPopup_FilterValueHeading
+2020-03-31 20:07:04 debugLogger [INFO] Element is found and clicked: Filter_Popup_ClearSearch'
+2020-03-31 20:07:06 debugLogger [INFO] Element is found and clicked: FilterPopup_BrandCheckbox
+2020-03-31 20:07:07 debugLogger [INFO] Element found: FilterPopup_TotalFilteredProduct
+2020-03-31 20:07:07 debugLogger [INFO] selected brand is: Golden. Total products for the selected Brand is: 8
+2020-03-31 20:07:09 debugLogger [INFO] Element is found and clicked: FilterPopup_ShowFilteredProducts
+2020-03-31 20:07:11 debugLogger [INFO] count of objects for ProductTile_xpath_Counter is :8
+2020-03-31 20:07:28 debugLogger [INFO] count of objects for Everything_Merch_Assoc_Box is :0
+2020-03-31 20:07:30 debugLogger [INFO] count of objects for ProductName_xpath_Counter is :8
+2020-03-31 20:07:30 debugLogger [INFO] ProductTile Count and BrandName is correctly displayed.
+2020-03-31 20:07:30 debugLogger [INFO] The tile no. 1 with brand name: Golden is same as filtered brand: Golden
+2020-03-31 20:07:31 debugLogger [INFO] The tile no. 2 with brand name: Golden is same as filtered brand: Golden
+2020-03-31 20:07:31 debugLogger [INFO] The tile no. 3 with brand name: Golden is same as filtered brand: Golden
+2020-03-31 20:07:31 debugLogger [INFO] The tile no. 4 with brand name: Golden is same as filtered brand: Golden
+2020-03-31 20:07:31 debugLogger [INFO] The tile no. 5 with brand name: Golden is same as filtered brand: Golden
+2020-03-31 20:07:31 debugLogger [INFO] The tile no. 6 with brand name: Golden is same as filtered brand: Golden
+2020-03-31 20:07:31 debugLogger [INFO] The tile no. 7 with brand name: Golden is same as filtered brand: Golden
+2020-03-31 20:07:31 debugLogger [INFO] The tile no. 8 with brand name: Golden is same as filtered brand: Golden
+2020-03-31 20:07:31 debugLogger [INFO] Number of Products displayed 8 is equal to the filtered products count8
+2020-03-31 20:07:34 debugLogger [INFO] Element is found and clicked: Account_Name
+2020-03-31 20:07:34 debugLogger [INFO] ExplicitWait Element Present: Logout_Button
+2020-03-31 20:07:36 debugLogger [INFO] Element is found and clicked: Logout_Button
+2020-03-31 20:07:40 debugLogger [INFO] Loading Device...
+2020-03-31 20:07:40 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 20:07:40 debugLogger [INFO] TCID match found
+2020-03-31 20:07:40 debugLogger [INFO] Username for test is sortinguser@mailinator.com
+2020-03-31 20:07:40 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 20:07:40 debugLogger [INFO] Firstname for test is 
+2020-03-31 20:07:40 debugLogger [INFO] lastname for test  is  
+2020-03-31 20:07:40 debugLogger [INFO] password for test  is  passw0rd
+2020-03-31 20:07:40 debugLogger [INFO] Nickname for test  is  
+2020-03-31 20:07:40 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 20:42:05 debugLogger [INFO] Loading Device...
+2020-03-31 20:42:05 debugLogger [INFO] Data file loaded successfully:SIT_Firefox_Perfecto_Desktop.xlsx
+2020-03-31 20:42:05 debugLogger [INFO] TCID match found
+2020-03-31 20:42:05 debugLogger [INFO] Username for test is 
+2020-03-31 20:42:05 debugLogger [INFO] password for test  is  
+2020-03-31 20:42:05 debugLogger [INFO] Firstname for test is 
+2020-03-31 20:42:05 debugLogger [INFO] lastname for test  is  
+2020-03-31 20:42:05 debugLogger [INFO] password for test  is  
+2020-03-31 20:42:05 debugLogger [INFO] Nickname for test  is  
+2020-03-31 20:42:05 debugLogger [INFO] Firefox config properties file loading successful
+2020-03-31 20:42:17 debugLogger [INFO] Firefox browser web driver started
+2020-03-31 20:42:17 debugLogger [INFO] Object Repository Properties for Desktop Browser - Loading success
+2020-03-31 20:42:17 debugLogger [INFO] Reached here Login before
+2020-03-31 20:42:17 debugLogger [INFO] base URL ishttps://colsitint.cmltd.net.au/a/national/home
+2020-03-31 20:42:28 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 20:42:31 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_Change_Link
+2020-03-31 20:42:33 debugLogger [INFO] Data entered for text box: Geo_Location_Bar_SearchField
+2020-03-31 20:42:43 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_First_Suggested_Suburb
+2020-03-31 20:42:51 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 20:42:54 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 20:42:54 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 20:42:54 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 20:42:54 debugLogger [INFO] Number of categories displayed on home page for 6059 DIANELLA are 18
+2020-03-31 20:42:54 debugLogger [INFO] Element found: Geo_Location_Bar_Localised_Suburb
+2020-03-31 20:42:54 debugLogger [INFO] Localisation Bar Suburb: Dianella, WA
+2020-03-31 20:42:56 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_Change_Link
+2020-03-31 20:42:59 debugLogger [INFO] Data entered for text box: Geo_Location_Bar_SearchField
+2020-03-31 20:43:11 debugLogger [INFO] Element is found and clicked: Geo_Location_Bar_First_Suggested_Suburb
+2020-03-31 20:43:19 debugLogger [INFO] ExplicitWait Element Present: SearchField_InsideText_Path
+2020-03-31 20:43:22 debugLogger [INFO] Element is found and clicked: Everything_Tab
+2020-03-31 20:43:22 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 20:43:22 debugLogger [INFO] ExplicitWait Element Present: Browse_By_Category_Level_0
+2020-03-31 20:43:22 debugLogger [INFO] Number of categories displayed on home page for 6210 HALLS HEAD are 18
+2020-03-31 20:43:22 debugLogger [INFO] Element found: Geo_Location_Bar_Localised_Suburb
+2020-03-31 20:43:22 debugLogger [INFO] Localisation Bar Suburb: Wannanup, WA
